@@ -2,7 +2,7 @@
 *---------------------- HEADER FIELD
 
 #PLAYER 3
-#GENRE ウラ・プログレ'80s
+#GENRE �E���E�v���O��'80s
 #TITLE L9
 #ARTIST paraoka
 obj hi-low
@@ -13,9 +13,9 @@ obj hi-low
 #STAGEFILE 
 
 #CHARFILE cc_Chronos.chp
-#BANNER プログレ'80s_u.bmp
-#COMMENT 冒険者を待ち受ける最後の難関に、あなたは打ち勝つことができるだろうか？
-#SUBARTIST object by サリドマイド
+#BANNER �v���O��'80s_u.bmp
+#COMMENT �`���҂�҂��󂯂�Ō�̓�ւɁA���Ȃ��͑ł������Ƃ��ł��邾�낤���H
+#SUBARTIST object by �T���h�}�C�h
 #BACKBMP progre80s_bg.png
 #DIFFICULTY 2
 

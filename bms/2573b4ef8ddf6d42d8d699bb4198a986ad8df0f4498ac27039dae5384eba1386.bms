@@ -1,0 +1,2399 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 1
+#GENRE fantasy
+#TITLE Altale [LAST-DANCE]
+#ARTIST çÌèú / obj:Ç‚Ç◊Ç•
+#BPM 90
+#PLAYLEVEL 74
+#RANK 3
+#TOTAL 474
+#STAGEFILE title.png
+
+#WAV01 strings__1 - Marker #1.wav
+#WAV02 strings__1 - Marker #2.wav
+#WAV03 strings__1 - Marker #3.wav
+#WAV04 strings__1 - Marker #4.wav
+#WAV05 strings__1 - Marker #5.wav
+#WAV06 strings__1 - Marker #6.wav
+#WAV07 strings__1 - Marker #7.wav
+#WAV08 strings__1 - Marker #8.wav
+#WAV09 strings__1 - Marker #9.wav
+#WAV0A strings__1 - Marker #10.wav
+#WAV0B strings__1 - Marker #11.wav
+#WAV0C strings__1 - Marker #12.wav
+#WAV0D strings__1 - Marker #13.wav
+#WAV0E strings__1 - Marker #14.wav
+#WAV0F strings__1 - Marker #15.wav
+#WAV0G strings__1 - Marker #16.wav
+#WAV0H strings__1 - Marker #17.wav
+#WAV0I strings__1 - Marker #18.wav
+#WAV0J back_qurt - Marker #1.wav
+#WAV0K back_qurt - Marker #2.wav
+#WAV0L back_qurt - Marker #3.wav
+#WAV0M back_qurt - Marker #4.wav
+#WAV0N back_qurt - Marker #5.wav
+#WAV0O back_qurt - Marker #6.wav
+#WAV0P back_qurt - Marker #7.wav
+#WAV0Q back_qurt - Marker #8.wav
+#WAV0R back_qurt - Marker #9.wav
+#WAV0S back_qurt - Marker #10.wav
+#WAV0T back_qurt - Marker #11.wav
+#WAV0U back_qurt - Marker #12.wav
+#WAV0V back_qurt - Marker #13.wav
+#WAV0W back_qurt - Marker #14.wav
+#WAV0X back_qurt - Marker #15.wav
+#WAV0Y back_qurt - Marker #16.wav
+#WAV0Z back_qurt - Marker #17.wav
+#WAV10 back_qurt - Marker #18.wav
+#WAV11 back_qurt - Marker #19.wav
+#WAV12 back_qurt - Marker #20.wav
+#WAV13 back_qurt - Marker #21.wav
+#WAV14 back_qurt - Marker #22.wav
+#WAV15 back_qurt - Marker #23.wav
+#WAV16 back_qurt - Marker #24.wav
+#WAV17 back_qurt - Marker #25.wav
+#WAV18 back_qurt - Marker #26.wav
+#WAV19 back_qurt - Marker #27.wav
+#WAV1A back_qurt - Marker #28.wav
+#WAV1B back_qurt - Marker #29.wav
+#WAV1C back_qurt - Marker #30.wav
+#WAV1D back_qurt - Marker #31.wav
+#WAV1E back_qurt - Marker #32.wav
+#WAV1F back_qurt - Marker #33.wav
+#WAV1G back_qurt - Marker #34.wav
+#WAV1H back_qurt - Marker #35.wav
+#WAV1I back_qurt - Marker #36.wav
+#WAV1J back_qurt - Marker #37.wav
+#WAV1K back_qurt - Marker #38.wav
+#WAV1L clap_1 - Marker #1.wav
+#WAV1M clap_1 - Marker #2.wav
+#WAV1N clap_1 - Marker #7.wav
+#WAV1O clap_1 - Marker #8.wav
+#WAV1P clap_1 - Marker #9.wav
+#WAV1Q clap_2(2) - Marker #1.wav
+#WAV1R clap_2(2) - Marker #2.wav
+#WAV1S dr_loop1 - Marker #1.wav
+#WAV1T dr_loop1 - Marker #2.wav
+#WAV1U dr_loop1 - Marker #3.wav
+#WAV1V dr_loop1 - Marker #4.wav
+#WAV1W dr_loop1 - Marker #5.wav
+#WAV1X dr_loop1 - Marker #6.wav
+#WAV1Y dr_loop1 - Marker #7.wav
+#WAV1Z dr_loop1 - Marker #8.wav
+#WAV20 dr_loop1 - Marker #9.wav
+#WAV21 dr_loop1 - Marker #10.wav
+#WAV22 dr_loop1 - Marker #11.wav
+#WAV23 dr_loop1 - Marker #12.wav
+#WAV24 glock1_2 - Marker #1.wav
+#WAV25 glock1_2 - Marker #2.wav
+#WAV26 glock1_2 - Marker #3.wav
+#WAV27 glock1_2 - Marker #4.wav
+#WAV28 glock1_2 - Marker #5.wav
+#WAV29 glock1_2 - Marker #6.wav
+#WAV2A glock1_2 - Marker #7.wav
+#WAV2B glock1_2 - Marker #8.wav
+#WAV2C glock1_2 - Marker #9.wav
+#WAV2D glock1_2 - Marker #10.wav
+#WAV2E glock1_2 - Marker #11.wav
+#WAV2F glock1_2 - Marker #12.wav
+#WAV2G glock1_2 - Marker #13.wav
+#WAV2H glock1_2 - Marker #14.wav
+#WAV2I glock1_2 - Marker #15.wav
+#WAV2J glock1_2 - Marker #16.wav
+#WAV2K glock1_2 - Marker #17.wav
+#WAV2L glock1_2 - Marker #18.wav
+#WAV2M glock1_2 - Marker #33.wav
+#WAV2N glock1_2 - Marker #34.wav
+#WAV2O glock1_2 - Marker #35.wav
+#WAV2P glock1_2 - Marker #36.wav
+#WAV2Q glock1_2 - Marker #37.wav
+#WAV2R glock1_2 - Marker #38.wav
+#WAV2S glock1_2 - Marker #39.wav
+#WAV2T glock1_2 - Marker #40.wav
+#WAV2U glock1_2 - Marker #41.wav
+#WAV2V glock1_2 - Marker #42.wav
+#WAV2W glock1_2 - Marker #43.wav
+#WAV2X glock1_2 - Marker #44.wav
+#WAV2Y glock1_2 - Marker #45.wav
+#WAV2Z glock1_2 - Marker #46.wav
+#WAV30 glock1_2 - Marker #47.wav
+#WAV31 glock1_2 - Marker #48.wav
+#WAV32 glock1_2 - Marker #49.wav
+#WAV33 glock1_2 - Marker #50.wav
+#WAV34 glock1_2 - Marker #51.wav
+#WAV35 glock1_2 - Marker #52.wav
+#WAV36 glock1_2 - Marker #53.wav
+#WAV37 glock1_2 - Marker #54.wav
+#WAV38 glock1_2 - Marker #55.wav
+#WAV39 glock1_2 - Marker #56.wav
+#WAV3A glock1_2 - Marker #57.wav
+#WAV3B glock1_2 - Marker #58.wav
+#WAV3C glock1_2 - Marker #59.wav
+#WAV3D glock1_2 - Marker #60.wav
+#WAV3E glock1_2 - Marker #61.wav
+#WAV3F glock1_2 - Marker #62.wav
+#WAV3G glock1_2 - Marker #63.wav
+#WAV3H glock1_2 - Marker #64.wav
+#WAV3I glock1_2 - Marker #65.wav
+#WAV3J glock1_2 - Marker #66.wav
+#WAV3K glock1_2 - Marker #67.wav
+#WAV3L glock1_2 - Marker #68.wav
+#WAV3M glock1_2 - Marker #69.wav
+#WAV3N glock1_2 - Marker #70.wav
+#WAV3O glock1_2 - Marker #71.wav
+#WAV3P glock1_2 - Marker #72.wav
+#WAV3Q glock1_2 - Marker #73.wav
+#WAV3R glock1_2 - Marker #74.wav
+#WAV3S glock1_2 - Marker #75.wav
+#WAV3T glock1_2 - Marker #76.wav
+#WAV3U glock1_2 - Marker #77.wav
+#WAV3V glock1_2 - Marker #78.wav
+#WAV3W glock1_2 - Marker #79.wav
+#WAV3X glock1_2 - Marker #80.wav
+#WAV3Y glock1_2 - Marker #81.wav
+#WAV3Z glock1_2 - Marker #82.wav
+#WAV40 glock1_2 - Marker #83.wav
+#WAV41 glock1_2 - Marker #84.wav
+#WAV42 glock1_2 - Marker #85.wav
+#WAV43 glock1_2 - Marker #86.wav
+#WAV44 glock1_2 - Marker #87.wav
+#WAV45 glock1_2 - Marker #88.wav
+#WAV46 glock1_2 - Marker #89.wav
+#WAV47 glock1_2 - Marker #90.wav
+#WAV48 glock1_2 - Marker #91.wav
+#WAV49 glock1_2 - Marker #92.wav
+#WAV4A glock1_2 - Marker #93.wav
+#WAV4B glock1_2 - Marker #94.wav
+#WAV4C glock1_2 - Marker #95.wav
+#WAV4D glock1_2 - Marker #96.wav
+#WAV4E kick_2.wav
+#WAV4F kick1 - Marker #4.wav
+#WAV4G kick1 - Marker #5.wav
+#WAV4H kick3 - Marker #1.wav
+#WAV4I kick3 - Marker #2.wav
+#WAV4J kick4 - Marker #1.wav
+#WAV4K kick4 - Marker #2.wav
+#WAV4L kick5 - Marker #1.wav
+#WAV4M kick5 - Marker #2.wav
+#WAV4N kick5 - Marker #3.wav
+#WAV4O kick5 - Marker #4.wav
+#WAV4P kick6 - Marker #4.wav
+#WAV4Q lead_vio1 - Marker #1.wav
+#WAV4R lead_vio1 - Marker #2.wav
+#WAV4S lead_vio1 - Marker #3.wav
+#WAV4T lead_vio1 - Marker #4.wav
+#WAV4U lead_vio1 - Marker #5.wav
+#WAV4V lead_vio1 - Marker #6.wav
+#WAV4W lead_vio1 - Marker #7.wav
+#WAV4X lead_vio1 - Marker #8.wav
+#WAV4Y lead_vio1 - Marker #10.wav
+#WAV4Z lead_vio1 - Marker #11.wav
+#WAV50 lead_vio1 - Marker #12.wav
+#WAV51 lead_vio1 - Marker #13.wav
+#WAV52 lead_vio1 - Marker #14.wav
+#WAV53 lead_vio1 - Marker #15.wav
+#WAV54 lead_vio1 - Marker #16.wav
+#WAV55 lead_vio1 - Marker #17.wav
+#WAV56 lead_vio1 - Marker #18.wav
+#WAV57 lead_vio1 - Marker #19.wav
+#WAV58 lead_vio1 - Marker #20.wav
+#WAV59 lead_vio1 - Marker #21.wav
+#WAV5A lead_vio1 - Marker #22.wav
+#WAV5B lead_vio1 - Marker #23.wav
+#WAV5C lead1 - Marker #1.wav
+#WAV5D lead1 - Marker #2.wav
+#WAV5E lead1 - Marker #3.wav
+#WAV5F lead1 - Marker #4.wav
+#WAV5G lead1 - Marker #5.wav
+#WAV5H lead1 - Marker #6.wav
+#WAV5I lead1 - Marker #7.wav
+#WAV5J lead1 - Marker #8.wav
+#WAV5K lead1 - Marker #9.wav
+#WAV5L lead1 - Marker #10.wav
+#WAV5M lead1 - Marker #11.wav
+#WAV5N lead1 - Marker #12.wav
+#WAV5O lead1 - Marker #13.wav
+#WAV5P lead1 - Marker #14.wav
+#WAV5Q lead1 - Marker #15.wav
+#WAV5R lead1 - Marker #16.wav
+#WAV5S lead1 - Marker #17.wav
+#WAV5T lead1 - Marker #18.wav
+#WAV5U x_snare1 - Marker #1.wav
+#WAV5V x_snare1 - Marker #3.wav
+#WAV5W x_snare1 - Marker #6.wav
+#WAV5X x_snare1 - Marker #8.wav
+#WAV5Y acor1 - Marker #1.wav
+#WAV5Z acor1 - Marker #2.wav
+#WAV60 acor1 - Marker #3.wav
+#WAV61 acor1 - Marker #7.wav
+#WAV62 acor1 - Marker #8.wav
+#WAV63 acor1 - Marker #9.wav
+#WAV64 acor1 - Marker #10.wav
+#WAV65 acor1 - Marker #11.wav
+#WAV66 acor1 - Marker #12.wav
+#WAV67 acor1 - Marker #13.wav
+#WAV68 acor1 - Marker #14.wav
+#WAV69 acor1 - Marker #15.wav
+#WAV6A acor1 - Marker #16.wav
+#WAV6B acor1 - Marker #17.wav
+#WAV6C acor1 - Marker #18.wav
+#WAV6D acor1 - Marker #19.wav
+#WAV6E acor1 - Marker #20.wav
+#WAV6F acor1 - Marker #21.wav
+#WAV6G acor1 - Marker #22.wav
+#WAV6H acor1 - Marker #23.wav
+#WAV6I acor1 - Marker #24.wav
+#WAV6J acor1 - Marker #25.wav
+#WAV6K acor1 - Marker #26.wav
+#WAV6L acor1 - Marker #27.wav
+#WAV6M acor1 - Marker #28.wav
+#WAV6N acor1 - Marker #29.wav
+#WAV6O acor1 - Marker #30.wav
+#WAV6P acor1 - Marker #31.wav
+#WAV6Q acor1 - Marker #32.wav
+#WAV6R acor1 - Marker #33.wav
+#WAV6S acor1 - Marker #34.wav
+#WAV6T acor1 - Marker #35.wav
+#WAV6U acor1 - Marker #36.wav
+#WAV6V acor1 - Marker #37.wav
+#WAV6W acor1 - Marker #38.wav
+#WAV6X acor1 - Marker #39.wav
+#WAV6Y acor1 - Marker #40.wav
+#WAV6Z acor1 - Marker #41.wav
+#WAV70 acor1 - Marker #42.wav
+#WAV71 gabba1 - Marker #1.wav
+#WAV72 gabba1 - Marker #2.wav
+#WAV73 magical - Marker #1.wav
+#WAV74 magical - Marker #2.wav
+#WAV75 magical - Marker #3.wav
+#WAV76 magical - Marker #4.wav
+#WAV77 magical - Marker #5.wav
+#WAV78 magical - Marker #6.wav
+#WAV79 magical - Marker #7.wav
+#WAV7A magical - Marker #8.wav
+#WAV7B magical - Marker #9.wav
+#WAV7C magical - Marker #10.wav
+#WAV7D magical - Marker #11.wav
+#WAV7E magical - Marker #12.wav
+#WAV7F magical - Marker #13.wav
+#WAV7G magical - Marker #14.wav
+#WAV7H magical - Marker #15.wav
+#WAV7I magical - Marker #16.wav
+#WAV7J magical - Marker #17.wav
+#WAV7K magical - Marker #18.wav
+#WAV7L magical - Marker #19.wav
+#WAV7M magical - Marker #20.wav
+#WAV7N magical - Marker #21.wav
+#WAV7O magical - Marker #22.wav
+#WAV7P magical - Marker #23.wav
+#WAV7Q magical - Marker #24.wav
+#WAV7R magical - Marker #25.wav
+#WAV7S magical - Marker #26.wav
+#WAV7T magical - Marker #27.wav
+#WAV7U magical - Marker #28.wav
+#WAV7V magical - Marker #29.wav
+#WAV7W magical - Marker #30.wav
+#WAV7X magical - Marker #31.wav
+#WAV7Y magical - Marker #32.wav
+#WAV7Z magical - Marker #33.wav
+#WAV80 magical - Marker #34.wav
+#WAV81 magical - Marker #35.wav
+#WAV82 magical - Marker #36.wav
+#WAV83 magical - Marker #37.wav
+#WAV84 magical - Marker #38.wav
+#WAV85 magical - Marker #39.wav
+#WAV86 magical - Marker #40.wav
+#WAV87 magical - Marker #41.wav
+#WAV88 magical - Marker #42.wav
+#WAV89 magical - Marker #43.wav
+#WAV8A magical - Marker #44.wav
+#WAV8B magical - Marker #45.wav
+#WAV8C magical - Marker #46.wav
+#WAV8D magical - Marker #47.wav
+#WAV8E magical - Marker #48.wav
+#WAV8F magical - Marker #49.wav
+#WAV8G magical - Marker #50.wav
+#WAV8H magical - Marker #51.wav
+#WAV8I magical - Marker #52.wav
+#WAV8J magical - Marker #53.wav
+#WAV8K magical - Marker #54.wav
+#WAV8L magical - Marker #55.wav
+#WAV8M magical - Marker #56.wav
+#WAV8N magical - Marker #57.wav
+#WAV8O magical - Marker #58.wav
+#WAV8P magical - Marker #59.wav
+#WAV8Q magical - Marker #60.wav
+#WAV8R magical - Marker #61.wav
+#WAV8S magical - Marker #62.wav
+#WAV8T magical - Marker #63.wav
+#WAV8U magical - Marker #64.wav
+#WAV8V magical - Marker #65.wav
+#WAV8W magical - Marker #66.wav
+#WAV8X magical - Marker #67.wav
+#WAV8Y magical - Marker #68.wav
+#WAV8Z magical - Marker #69.wav
+#WAV90 magical - Marker #70.wav
+#WAV91 magical - Marker #71.wav
+#WAV92 magical - Marker #72.wav
+#WAV93 magical - Marker #73.wav
+#WAV94 magical - Marker #74.wav
+#WAV95 magical - Marker #75.wav
+#WAV96 magical - Marker #76.wav
+#WAV97 magical - Marker #77.wav
+#WAV98 magical - Marker #78.wav
+#WAV99 magical - Marker #79.wav
+#WAV9A magical - Marker #80.wav
+#WAV9B magical - Marker #81.wav
+#WAV9C magical - Marker #82.wav
+#WAV9D magical - Marker #83.wav
+#WAV9E magical - Marker #84.wav
+#WAV9F magical - Marker #97.wav
+#WAV9G magical - Marker #98.wav
+#WAV9H magical - Marker #99.wav
+#WAV9I magical - Marker #100.wav
+#WAV9J magical - Marker #101.wav
+#WAV9K magical - Marker #102.wav
+#WAV9L magical - Marker #103.wav
+#WAV9M magical - Marker #104.wav
+#WAV9N magical - Marker #105.wav
+#WAV9O magical - Marker #106.wav
+#WAV9P magical - Marker #107.wav
+#WAV9Q magical - Marker #108.wav
+#WAV9R magical - Marker #109.wav
+#WAV9S magical - Marker #133.wav
+#WAV9T magical - Marker #134.wav
+#WAV9U magical - Marker #135.wav
+#WAV9V magical - Marker #136.wav
+#WAV9W magical - Marker #137.wav
+#WAV9X magical - Marker #138.wav
+#WAV9Y magical - Marker #139.wav
+#WAV9Z magical - Marker #140.wav
+#WAVA0 magical - Marker #141.wav
+#WAVA1 magical - Marker #142.wav
+#WAVA2 magical - Marker #143.wav
+#WAVA3 magical - Marker #144.wav
+#WAVA4 magical - Marker #145.wav
+#WAVA5 magical - Marker #146.wav
+#WAVA6 magical - Marker #147.wav
+#WAVA7 magical - Marker #148.wav
+#WAVA8 magical - Marker #149.wav
+#WAVA9 magical - Marker #150.wav
+#WAVAA magical - Marker #151.wav
+#WAVAB magical - Marker #152.wav
+#WAVAC magical - Marker #153.wav
+#WAVAD magical - Marker #154.wav
+#WAVAE magical - Marker #155.wav
+#WAVAF magical - Marker #156.wav
+#WAVAG record1 - Marker #1.wav
+#WAVAH record1 - Marker #2.wav
+#WAVAI record1 - Marker #3.wav
+#WAVAJ record1 - Marker #4.wav
+#WAVAK record1 - Marker #5.wav
+#WAVAL record1 - Marker #6.wav
+#WAVAM record1 - Marker #7.wav
+#WAVAN record1 - Marker #8.wav
+#WAVAO record1 - Marker #9.wav
+#WAVAP record1 - Marker #10.wav
+#WAVAQ record1 - Marker #11.wav
+#WAVAR record1 - Marker #12.wav
+#WAVAS record1 - Marker #13.wav
+#WAVAT record1 - Marker #14.wav
+#WAVAU record1 - Marker #15.wav
+#WAVAV record1 - Marker #16.wav
+#WAVAW record1 - Marker #17.wav
+#WAVAX record1 - Marker #18.wav
+#WAVAY record1 - Marker #19.wav
+#WAVAZ record1 - Marker #20.wav
+#WAVB0 record1 - Marker #21.wav
+#WAVB1 record1 - Marker #22.wav
+#WAVB2 record1 - Marker #23.wav
+#WAVB3 record1 - Marker #24.wav
+#WAVB4 record1 - Marker #25.wav
+#WAVB5 record1 - Marker #26.wav
+#WAVB6 record1 - Marker #27.wav
+#WAVB7 record1 - Marker #28.wav
+#WAVB8 record1 - Marker #29.wav
+#WAVB9 record1 - Marker #30.wav
+#WAVBA record1 - Marker #31.wav
+#WAVBB record1 - Marker #32.wav
+#WAVBC record1 - Marker #33.wav
+#WAVBD record1 - Marker #34.wav
+#WAVBE record1 - Marker #35.wav
+#WAVBF record1 - Marker #36.wav
+#WAVBG record1 - Marker #37.wav
+#WAVBH record1 - Marker #38.wav
+#WAVBI record1 - Marker #39.wav
+#WAVBJ record1 - Marker #40.wav
+#WAVBK record1 - Marker #41.wav
+#WAVBL record1 - Marker #42.wav
+#WAVBM record1 - Marker #43.wav
+#WAVBN record1 - Marker #44.wav
+#WAVBO record1 - Marker #45.wav
+#WAVBP record1 - Marker #46.wav
+#WAVBQ record1 - Marker #47.wav
+#WAVBR strin_x1 - Marker #1.wav
+#WAVBS strin_x1 - Marker #2.wav
+#WAVBT strin_x1 - Marker #3.wav
+#WAVBU strin_x1 - Marker #4.wav
+#WAVBV strin_x1 - Marker #7.wav
+#WAVBW strin_x1 - Marker #8.wav
+#WAVBX strin_x1 - Marker #9.wav
+#WAVBY strin_x1 - Marker #10.wav
+#WAVBZ strin_x1 - Marker #11.wav
+#WAVC0 strin_x1 - Marker #12.wav
+#WAVC1 strin_x1 - Marker #13.wav
+#WAVC2 strin_x1 - Marker #14.wav
+#WAVC3 strin_x1 - Marker #15.wav
+#WAVC4 strin_x1 - Marker #16.wav
+#WAVC5 strin_x1 - Marker #17.wav
+#WAVC6 strin_x1 - Marker #18.wav
+#WAVC7 strin_x1 - Marker #19.wav
+#WAVC8 strin_x1 - Marker #20.wav
+#WAVC9 strin_x1 - Marker #21.wav
+#WAVCA strin_x1 - Marker #22.wav
+#WAVCB strin_x1 - Marker #23.wav
+#WAVCC strin_x1 - Marker #24.wav
+#WAVCD strin_x1 - Marker #25.wav
+#WAVCE strin_x1 - Marker #26.wav
+#WAVCF strin_x1 - Marker #27.wav
+#WAVCG strin_x1 - Marker #28.wav
+#WAVCH strin_x1 - Marker #29.wav
+#WAVCI strin_x1 - Marker #30.wav
+#WAVCJ strin_x1 - Marker #31.wav
+#WAVCK strin_x1 - Marker #32.wav
+#WAVCL strin_x1 - Marker #33.wav
+#WAVCM strin_x1 - Marker #34.wav
+#WAVCN strin_x1 - Marker #35.wav
+#WAVCO strin_x1 - Marker #36.wav
+#WAVCP strin_x1 - Marker #37.wav
+#WAVCQ strin_x1 - Marker #38.wav
+#WAVCR strin_x1 - Marker #39.wav
+#WAVCS strin_x1 - Marker #40.wav
+#WAVCT strin_x1 - Marker #41.wav
+#WAVCU strin_x1 - Marker #42.wav
+#WAVCV strin_x1 - Marker #43.wav
+#WAVCW strin_x1 - Marker #44.wav
+#WAVCX strin_x1 - Marker #45.wav
+#WAVCY strin_x1 - Marker #46.wav
+#WAVCZ strin_x1 - Marker #47.wav
+#WAVD0 strin_x1 - Marker #48.wav
+#WAVD1 seq1 - Marker #1.wav
+#WAVD2 seq1 - Marker #2.wav
+#WAVD3 seq1 - Marker #3.wav
+#WAVD4 seq1 - Marker #4.wav
+#WAVD5 seq1 - Marker #5.wav
+#WAVD6 seq1 - Marker #6.wav
+#WAVD7 seq1 - Marker #7.wav
+#WAVD8 seq1 - Marker #8.wav
+#WAVD9 seq1 - Marker #9.wav
+#WAVDA seq1 - Marker #10.wav
+#WAVDB seq1 - Marker #11.wav
+#WAVDC seq1 - Marker #19.wav
+#WAVDD seq1 - Marker #20.wav
+#WAVDE seq1 - Marker #21.wav
+#WAVDF seq1 - Marker #29.wav
+#WAVDG seq1 - Marker #30.wav
+#WAVDH seq1 - Marker #31.wav
+#WAVDI seq1 - Marker #32.wav
+#WAVDJ seq1 - Marker #33.wav
+#WAVDK seq1 - Marker #34.wav
+#WAVDL seq1 - Marker #35.wav
+#WAVDM seq1 - Marker #36.wav
+#WAVDN seq1 - Marker #37.wav
+#WAVDO seq1 - Marker #38.wav
+#WAVDP seq1 - Marker #39.wav
+#WAVDQ seq1 - Marker #40.wav
+#WAVDR seq1 - Marker #41.wav
+#WAVDS seq1 - Marker #42.wav
+#WAVDT seq1 - Marker #43.wav
+#WAVDU seq1 - Marker #44.wav
+#WAVDV seq1 - Marker #45.wav
+#WAVDW seq1 - Marker #46.wav
+#WAVDX seq1 - Marker #47.wav
+#WAVDY seq1 - Marker #48.wav
+#WAVDZ seq1 - Marker #49.wav
+#WAVE0 seq1 - Marker #50.wav
+#WAVE1 seq1 - Marker #54.wav
+#WAVE2 seq1 - Marker #58.wav
+#WAVE3 breaks1 - Marker #1.wav
+#WAVE4 breaks1 - Marker #2.wav
+#WAVE5 breaks1 - Marker #3.wav
+#WAVE6 breaks1 - Marker #4.wav
+#WAVE7 breaks1 - Marker #5.wav
+#WAVE8 breaks1 - Marker #6.wav
+#WAVE9 breaks1 - Marker #7.wav
+#WAVEA breaks1 - Marker #8.wav
+#WAVEB breaks1 - Marker #9.wav
+#WAVEC breaks1 - Marker #10.wav
+#WAVED breaks1 - Marker #11.wav
+#WAVEE breaks1 - Marker #12.wav
+#WAVEF breaks1 - Marker #13.wav
+#WAVEG breaks1 - Marker #14.wav
+#WAVEH breaks1 - Marker #15.wav
+#WAVEI breaks1 - Marker #16.wav
+#WAVEJ breaks1 - Marker #17.wav
+#WAVEK breaks1 - Marker #18.wav
+#WAVEL breaks1 - Marker #19.wav
+#WAVEM breaks1 - Marker #20.wav
+#WAVEN breaks1 - Marker #21.wav
+#WAVEO breaks1 - Marker #22.wav
+#WAVEP breaks1 - Marker #23.wav
+#WAVEQ breaks1 - Marker #24.wav
+#WAVER breaks1 - Marker #25.wav
+#WAVES breaks1 - Marker #26.wav
+#WAVET breaks1 - Marker #27.wav
+#WAVEU breaks1 - Marker #28.wav
+#WAVEV breaks1 - Marker #29.wav
+#WAVEW breaks1 - Marker #30.wav
+#WAVEX breaks1 - Marker #31.wav
+#WAVEY breaks1 - Marker #32.wav
+#WAVEZ breaks1 - Marker #33.wav
+#WAVF0 breaks1 - Marker #34.wav
+#WAVF1 breaks1 - Marker #35.wav
+#WAVF2 breaks1 - Marker #36.wav
+#WAVF3 breaks1 - Marker #37.wav
+#WAVF4 breaks1 - Marker #38.wav
+#WAVF5 breaks1 - Marker #39.wav
+#WAVF6 breaks1 - Marker #40.wav
+#WAVF7 breaks1 - Marker #41.wav
+#WAVF8 breaks1 - Marker #42.wav
+#WAVF9 breaks1 - Marker #43.wav
+#WAVFA breaks1 - Marker #44.wav
+#WAVFB breaks1 - Marker #45.wav
+#WAVFC breaks1 - Marker #46.wav
+#WAVFD breaks1 - Marker #47.wav
+#WAVFE breaks1 - Marker #48.wav
+#WAVFF breaks1 - Marker #49.wav
+#WAVFG breaks1 - Marker #51.wav
+#WAVFH breaks1 - Marker #52.wav
+#WAVFI breaks1 - Marker #53.wav
+#WAVFJ breaks1 - Marker #54.wav
+#WAVFK breaks1 - Marker #55.wav
+#WAVFL breaks1 - Marker #56.wav
+#WAVFM breaks1 - Marker #57.wav
+#WAVFN breaks1 - Marker #58.wav
+#WAVFO breaks1 - Marker #59.wav
+#WAVFP breaks1 - Marker #60.wav
+#WAVFQ breaks1 - Marker #61.wav
+#WAVFR breaks1 - Marker #62.wav
+#WAVFS cyn1 - Marker #1.wav
+#WAVFT cyn1 - Marker #2.wav
+#WAVFU cyn1 - Marker #5.wav
+#WAVFV pianos1 - Marker #1.wav
+#WAVFW pianos1 - Marker #2.wav
+#WAVFX pianos1 - Marker #3.wav
+#WAVFY pianos1 - Marker #4.wav
+#WAVFZ pianos1 - Marker #5.wav
+#WAVG0 pianos1 - Marker #6.wav
+#WAVG1 pianos1 - Marker #7.wav
+#WAVG2 pianos1 - Marker #8.wav
+#WAVG3 pianos1 - Marker #9.wav
+#WAVG4 pianos1 - Marker #10.wav
+#WAVG5 pianos1 - Marker #11.wav
+#WAVG6 pianos1 - Marker #12.wav
+#WAVG7 pianos2 - Marker #1.wav
+#WAVG8 pianos2 - Marker #2.wav
+#WAVG9 pianos2 - Marker #3.wav
+#WAVGA pianos2 - Marker #4.wav
+#WAVGB pianos2 - Marker #5.wav
+#WAVGC pianos2 - Marker #6.wav
+#WAVGD pianos2 - Marker #7.wav
+#WAVGE pianos2 - Marker #8.wav
+#WAVGF pianos2 - Marker #9.wav
+#WAVGG pianos2 - Marker #10.wav
+#WAVGH pianos2 - Marker #11.wav
+#WAVGI pianos2 - Marker #12.wav
+#WAVGJ terotero1.wav
+#WAVGK terotero2.wav
+#WAVGL terotero3.wav
+#WAVGM terotero4.wav
+#WAVGN terotero5.wav
+#WAVGO terotero6.wav
+#WAVGP terotero7.wav
+#WAVGQ terotero8.wav
+#WAVGR terotero9.wav
+#WAVGS terotero10.wav
+#WAVGT terotero11.wav
+#WAVGU terotero12.wav
+#WAVGV terotero13.wav
+#WAVGW tokei1 - Marker #1.wav
+#WAVGX tokei1 - Marker #2.wav
+#WAVGY tokei1 - Marker #3.wav
+#WAVGZ tokei1 - Marker #4.wav
+#WAVH0 tokei1 - Marker #5.wav
+#WAVH1 tokei1 - Marker #6.wav
+#WAVH2 piano_past - Marker #1.wav
+#WAVH3 piano_past - Marker #2.wav
+#WAVH4 piano_past - Marker #3.wav
+#WAVH5 piano_past - Marker #4.wav
+#WAVH6 piano_past - Marker #5.wav
+#WAVH7 piano_past - Marker #6.wav
+#WAVH8 piano_past - Marker #7.wav
+#WAVH9 piano_past - Marker #8.wav
+#WAVHA piano_past - Marker #9.wav
+#WAVHB piano_past - Marker #10.wav
+#WAVHC piano_past - Marker #11.wav
+#WAVHD piano_past - Marker #12.wav
+#WAVHE piano_past - Marker #13.wav
+#WAVHF piano_past - Marker #14.wav
+#WAVHG piano_past - Marker #15.wav
+#WAVHH piano_past - Marker #16.wav
+#WAVHI piano_past - Marker #17.wav
+#WAVHJ piano_past - Marker #18.wav
+#WAVHK piano_past - Marker #19.wav
+#WAVHL piano_past - Marker #20.wav
+#WAVHM piano_past - Marker #21.wav
+#WAVHN piano_past - Marker #22.wav
+#WAVHO piano_past - Marker #23.wav
+#WAVHP piano_past - Marker #24.wav
+#WAVHQ piano_past - Marker #25.wav
+#WAVHR piano_past - Marker #26.wav
+#WAVHS piano_past - Marker #27.wav
+#WAVHT piano_past - Marker #28.wav
+#WAVHU piano_past - Marker #29.wav
+#WAVHV piano_past - Marker #30.wav
+#WAVHW piano_past - Marker #31.wav
+#WAVHX piano_past - Marker #32.wav
+#WAVHY piano_past - Marker #33.wav
+#WAVHZ piano_past - Marker #34.wav
+#WAVI0 piano_past - Marker #35.wav
+#WAVI1 piano_past - Marker #36.wav
+#WAVI2 piano_past - Marker #37.wav
+#WAVI3 piano_past - Marker #38.wav
+#WAVI4 piano_past - Marker #39.wav
+#WAVI5 piano_past - Marker #40.wav
+#WAVI6 piano_past - Marker #41.wav
+#WAVI7 piano_past - Marker #42.wav
+#WAVI8 piano_past - Marker #43.wav
+#WAVI9 piano_x1 - Marker #1.wav
+#WAVIA piano_x1 - Marker #2.wav
+#WAVIB piano_x1 - Marker #3.wav
+#WAVIC piano_x1 - Marker #4.wav
+#WAVID piano_x1 - Marker #5.wav
+#WAVIE piano_x1 - Marker #6.wav
+#WAVIF piano_x1 - Marker #7.wav
+#WAVIG piano_x2 - Marker #1.wav
+#WAVIH piano_x2 - Marker #2.wav
+#WAVII piano_x2 - Marker #3.wav
+#WAVIJ piano_x2 - Marker #4.wav
+#WAVIK piano_x2 - Marker #5.wav
+#WAVIL piano_x2 - Marker #6.wav
+#WAVIM piano_x2 - Marker #7.wav
+#WAVIN intopiano_1 - Marker #1.wav
+#WAVIO intopiano_1 - Marker #2.wav
+#WAVIP intopiano_1 - Marker #3.wav
+#WAVIQ intopiano_1 - Marker #4.wav
+#WAVIR intopiano_1 - Marker #5.wav
+#WAVIS intopiano_1 - Marker #6.wav
+#WAVIT intopiano_1 - Marker #7.wav
+#WAVIU intopiano_1 - Marker #8.wav
+#WAVIV intopiano_2 - Marker #1.wav
+#WAVIW intopiano_2 - Marker #2.wav
+#WAVIX intopiano_2 - Marker #3.wav
+#WAVIY intopiano_2 - Marker #4.wav
+#WAVIZ intopiano_2 - Marker #5.wav
+#WAVJ0 intopiano_2 - Marker #6.wav
+#WAVJ1 intopiano_2 - Marker #7.wav
+#WAVJ2 intopiano_2 - Marker #8.wav
+#WAVJ3 intopiano_3 - Marker #1.wav
+#WAVJ4 intopiano_3 - Marker #2.wav
+#WAVJ5 intopiano_3 - Marker #3.wav
+#WAVJ6 intopiano_3 - Marker #4.wav
+#WAVJ7 intopiano_3 - Marker #5.wav
+#WAVJ8 intopiano_3 - Marker #7.wav
+#WAVJ9 intopiano_4 - Marker #1.wav
+#WAVJA intopiano_4 - Marker #2.wav
+#WAVJB intopiano_4 - Marker #3.wav
+#WAVJC intopiano_4 - Marker #4.wav
+#WAVJD intopiano_4 - Marker #5.wav
+#WAVJE intopiano_4 - Marker #6.wav
+#WAVJF intopiano_4 - Marker #7.wav
+#WAVJG intopiano_5 - Marker #1.wav
+#WAVJH intopiano_5 - Marker #2.wav
+#WAVJI intopiano_5 - Marker #3.wav
+#WAVJJ intopiano_5 - Marker #4.wav
+#WAVJK intopiano_5 - Marker #5.wav
+#WAVJL intopiano_5 - Marker #6.wav
+#WAVJM intopiano_5 - Marker #7.wav
+#WAVJN intopiano_6 - Marker #1.wav
+#WAVJO intopiano_6 - Marker #2.wav
+#WAVJP intopiano_6 - Marker #3.wav
+#WAVJQ intopiano_6 - Marker #4.wav
+#WAVJR intopiano_6 - Marker #5.wav
+#WAVJS intopiano_6 - Marker #6.wav
+#WAVJT intopiano_6 - Marker #7.wav
+#WAVJU kilan1.wav
+#WAVJV orb1.wav
+#WAVJW cl_ - Marker #1.wav
+#WAVJX cl_ - Marker #2.wav
+#WAVJY cl_ - Marker #3.wav
+#WAVJZ org_break_1.wav
+#WAVK0 org_break_2.wav
+#WAVK1 org_break_3.wav
+#WAVK2 org_break_4.wav
+#WAVK3 org_break_5.wav
+#WAVK4 org_break_6.wav
+#WAVK5 org_break_7.wav
+#WAVK6 org_break_8 - Marker #1.wav
+#WAVK7 org_break_8 - Marker #2.wav
+#WAVK8 org_break_8 - Marker #3.wav
+#WAVK9 org_break_8 - Marker #4.wav
+#WAVKA org_break_8 - Marker #5.wav
+#WAVKB org_break_4.wav
+#WAVKC break_piano4 - Marker #1.wav
+#WAVKD break_piano4 - Marker #2.wav
+#WAVKE break_piano4 - Marker #3.wav
+#WAVKF break_piano4 - Marker #4.wav
+#WAVKG break_piano4 - Marker #5.wav
+#WAVKH break_piano6 - Marker #1.wav
+#WAVKI break_piano6 - Marker #2.wav
+#WAVKJ break_piano6 - Marker #3.wav
+#WAVKK break_piano6 - Marker #4.wav
+#WAVKL break_piano7 - Marker #1.wav
+#WAVKM break_piano7 - Marker #2.wav
+#WAVKN break_piano7 - Marker #3.wav
+#WAVKO break_piano7 - Marker #4.wav
+#WAVKP break_piano8 - Marker #1.wav
+#WAVKQ break_piano8 - Marker #2.wav
+#WAVKR break_piano8 - Marker #3.wav
+#WAVKS break_piano8 - Marker #4.wav
+#WAVKT strings_break_1 - Marker #1.wav
+#WAVKU strings_break_1 - Marker #2.wav
+#WAVKV strings_break_1 - Marker #3.wav
+#WAVKW strings_break_1 - Marker #4.wav
+#WAVKX strings_break_1 - Marker #5.wav
+#WAVKY strings_break_1 - Marker #7.wav
+#WAVKZ strings_break_2 - Marker #1.wav
+#WAVL0 strings_break_2 - Marker #2.wav
+#WAVL1 strings_break_2 - Marker #3.wav
+#WAVL2 strings_break_2 - Marker #4.wav
+#WAVL3 strings_break_2 - Marker #5.wav
+#WAVL4 strings_break_2 - Marker #6.wav
+#WAVL5 strings_break_2 - Marker #7.wav
+#WAVL6 harp_bb_h1 - Marker #19.wav
+#WAVL7 harp_bb_h1 - Marker #20.wav
+#WAVL8 harp_bb_h1 - Marker #21.wav
+#WAVL9 crgs.wav
+#WAVLA cynbals1.wav
+#WAVLB clap_xx2.wav
+#WAVLC clap_xx3.wav
+#WAVLD clap_xx2.wav
+#WAVLF snnoise_1.wav
+#WAVLG cynbal12122.wav
+#WAVLH last_st_2.wav
+#WAVLI last_stri_2 - Marker #1.wav
+#WAVLJ last_stri_2 - Marker #2.wav
+#WAVLK last_stri_2 - Marker #3.wav
+#WAVLL last_stri_2 - Marker #4.wav
+#WAVLM last_stri_2 - Marker #5.wav
+#WAVLN last_stri_2 - Marker #6.wav
+#WAVLO last_stri_2 - Marker #7.wav
+#WAVLP last_stri_2 - Marker #8.wav
+#WAVLQ last_stri_2 - Marker #9.wav
+#WAVLR last_stri_2 - Marker #10.wav
+#WAVLS last_stri_2 - Marker #11.wav
+#WAVLT last_stri_2 - Marker #12.wav
+#WAVLU last_stri_2 - Marker #13.wav
+#WAVLV last_stri_2 - Marker #14.wav
+#WAVLW end_piano_solo_1 - Marker #1.wav
+#WAVLX end_piano_solo_1 - Marker #2.wav
+#WAVLY end_piano_solo_1 - Marker #3.wav
+#WAVLZ end_piano_solo_1 - Marker #4.wav
+#WAVM0 end_piano_solo_1 - Marker #5.wav
+#WAVM1 end_piano_solo_2 - Marker #1.wav
+#WAVM2 end_piano_solo_2 - Marker #2.wav
+#WAVM3 end_piano_solo_2 - Marker #3.wav
+#WAVM4 end_piano_solo_2 - Marker #4.wav
+#WAVM5 end_piano_solo_2 - Marker #5.wav
+#WAVM6 end_piano_solo_3 - Marker #1.wav
+#WAVM7 end_piano_solo_3 - Marker #2.wav
+#WAVM8 end_piano_solo_3 - Marker #3.wav
+#WAVM9 end_piano_solo_3 - Marker #4.wav
+#WAVMA end_piano_solo_3 - Marker #5.wav
+#WAVMB end_piano_solo_4 - Marker #1.wav
+#WAVMC end_piano_solo_4 - Marker #2.wav
+#WAVMD end_piano_solo_4 - Marker #3.wav
+#WAVME end_piano_solo_4 - Marker #4.wav
+#WAVMF end_piano_solo_5 - Marker #1.wav
+#WAVMG end_piano_solo_5 - Marker #2.wav
+#WAVMH end_piano_solo_5 - Marker #3.wav
+#WAVMI end_piano_solo_5 - Marker #4.wav
+#WAVMJ end_piano_solo_6 - Marker #1.wav
+#WAVMK end_piano_solo_6 - Marker #2.wav
+#WAVML end_piano_solo_6 - Marker #3.wav
+#WAVMM end_piano_solo_6 - Marker #4.wav
+#WAVMN end_piano_solo_7 - Marker #1.wav
+#WAVMO end_piano_solo_7 - Marker #2.wav
+#WAVMP end_piano_solo_7 - Marker #3.wav
+#WAVMQ end_piano_solo_7 - Marker #4.wav
+#WAVMR end_piano_solo_7 - Marker #5.wav
+#WAVMS end_piano_solo_8 - Marker #2.wav
+#WAVMT end_piano_solo_8 - Marker #3.wav
+#WAVMU end_piano_solo_8 - Marker #4.wav
+#WAVMV end_piano_solo_8 - Marker #5.wav
+#WAVMW end_piano_solo_8 - Marker #7.wav
+#WAVMX end_piano_solo_9.wav
+#WAVMY piano_fill.wav
+#WAVMZ drum_x1 - Marker #2.wav
+#WAVN0 drum_x1 - Marker #3.wav
+#WAVN1 drum_x1 - Marker #4.wav
+#WAVN2 drum_x1 - Marker #5.wav
+#WAVN3 drum_x1 - Marker #6.wav
+#WAVN4 drum_x1 - Marker #7.wav
+#WAVN5 drum_x1 - Marker #8.wav
+#WAVN6 drum_x1 - Marker #9.wav
+#WAVN7 drum_x1 - Marker #10.wav
+#WAVN8 drum_x1 - Marker #11.wav
+#WAVN9 drum_x1 - Marker #12.wav
+#WAVNA drum_x1 - Marker #13.wav
+#WAVNB drum_x1 - Marker #14.wav
+#WAVNC drum_x1 - Marker #15.wav
+#WAVND drum_x1 - Marker #16.wav
+#WAVNE drum_x1 - Marker #17.wav
+#WAVNF drum_x1 - Marker #18.wav
+#WAVNG drum_x1 - Marker #19.wav
+#WAVNH drum_x1 - Marker #20.wav
+#WAVNI drum_x1 - Marker #21.wav
+#WAVNJ drum_x1 - Marker #22.wav
+#WAVNK drum_x1 - Marker #23.wav
+#WAVNL drum_x1 - Marker #24.wav
+#WAVNM drum_x1 - Marker #25.wav
+#WAVNN drum_x1 - Marker #26.wav
+#WAVNO drum_x1 - Marker #27.wav
+#WAVNP drum_x1 - Marker #28.wav
+#WAVNQ drum_x1 - Marker #29.wav
+#WAVNR drum_x1 - Marker #30.wav
+#WAVNS drum_x1 - Marker #31.wav
+#WAVNT drum_x1 - Marker #32.wav
+#WAVNU drum_x1 - Marker #33.wav
+#WAVNV drum_x1 - Marker #34.wav
+#WAVNW drum_x1 - Marker #35.wav
+#WAVNX drum_x1 - Marker #36.wav
+#WAVNY drum_x1 - Marker #37.wav
+#WAVNZ drum_x1 - Marker #38.wav
+#WAVO0 drum_x1 - Marker #39.wav
+#WAVO1 drum_x1 - Marker #40.wav
+#WAVO2 drum_x1 - Marker #41.wav
+#WAVO3 drum_x1 - Marker #42.wav
+#WAVO4 drum_x1 - Marker #43.wav
+#WAVO5 drum_x1 - Marker #44.wav
+#WAVO6 drum_x1 - Marker #45.wav
+#WAVO7 drum_x1 - Marker #46.wav
+#WAVO8 drum_x1 - Marker #47.wav
+#WAVO9 drum_x1 - Marker #48.wav
+#WAVOA drum_x1 - Marker #49.wav
+#WAVOB drum_x1 - Marker #50.wav
+#WAVOC drum_x1 - Marker #51.wav
+#WAVOD drum_x1 - Marker #52.wav
+#WAVOE drum_x1 - Marker #53.wav
+#WAVOF drum_x1 - Marker #54.wav
+#WAVOG drum_x1 - Marker #55.wav
+#WAVOH drum_x1 - Marker #56.wav
+#WAVOI drum_x1 - Marker #57.wav
+#WAVOJ drum_x1 - Marker #58.wav
+#WAVOK drum_x1 - Marker #59.wav
+#WAVOL drum_x1 - Marker #60.wav
+#WAVOM drum_x1 - Marker #61.wav
+#WAVON drum_x1 - Marker #62.wav
+#WAVOO drum_x1 - Marker #63.wav
+#WAVOP drum_x1 - Marker #64.wav
+#WAVOQ drum_x1 - Marker #65.wav
+#WAVOR drum_x1 - Marker #66.wav
+#WAVOS drum_x1 - Marker #67.wav
+#WAVOT drum_x1 - Marker #68.wav
+#WAVOU drum_x1 - Marker #69.wav
+#WAVOV drum_x1 - Marker #70.wav
+#WAVOW drum_x1 - Marker #71.wav
+#WAVOX drum_x1 - Marker #72.wav
+#WAVOY drum_x1 - Marker #73.wav
+#WAVOZ drum_x1 - Marker #74.wav
+#WAVP0 drum_x1 - Marker #75.wav
+#WAVP1 drum_x1 - Marker #76.wav
+#WAVP2 drum_x1 - Marker #77.wav
+#WAVP3 drum_x1 - Marker #78.wav
+#WAVP4 drum_x1 - Marker #79.wav
+#WAVP5 drum_x1 - Marker #80.wav
+#WAVP6 drum_x1 - Marker #81.wav
+#WAVP7 drum_x1 - Marker #82.wav
+#WAVP8 drum_x1 - Marker #83.wav
+#WAVP9 drum_x1 - Marker #84.wav
+#WAVPA drum_x1 - Marker #85.wav
+#WAVPB drum_x1 - Marker #86.wav
+#WAVPC drum_x1 - Marker #87.wav
+#WAVPD drum_x1 - Marker #88.wav
+#WAVPE drum_x1 - Marker #89.wav
+#WAVPF drum_x1 - Marker #90.wav
+#WAVPG drum_x1 - Marker #91.wav
+#WAVPH drum_x1 - Marker #92.wav
+#WAVPI drum_x1 - Marker #93.wav
+#WAVPJ drum_x1 - Marker #94.wav
+#WAVPK drum_x1 - Marker #95.wav
+#WAVPL drum_x1 - Marker #96.wav
+#WAVPM drum_x1 - Marker #97.wav
+#WAVPN drum_x1 - Marker #98.wav
+#WAVPO drum_x1 - Marker #99.wav
+#WAVPP drum_x1 - Marker #100.wav
+#WAVPQ drum_x1 - Marker #101.wav
+#WAVPR drum_x1 - Marker #102.wav
+#WAVPS drum_x1 - Marker #103.wav
+#WAVPT drum_x1 - Marker #104.wav
+#WAVPU drum_x1 - Marker #105.wav
+#WAVPV drum_x1 - Marker #106.wav
+#WAVPW drum_x1 - Marker #107.wav
+#WAVPX drum_x1 - Marker #108.wav
+#WAVPY drum_x1 - Marker #109.wav
+#WAVPZ drum_x1 - Marker #110.wav
+#WAVQ0 drum_x1 - Marker #111.wav
+#WAVQ1 drum_x1 - Marker #112.wav
+#WAVQ2 drum_x1 - Marker #113.wav
+#WAVQ3 drum_x1 - Marker #114.wav
+#WAVQ4 drum_x1 - Marker #115.wav
+#WAVQ5 drum_x1 - Marker #116.wav
+#WAVQ6 drum_x1 - Marker #117.wav
+#WAVQ7 drum_x1 - Marker #118.wav
+#WAVQ8 drum_x1 - Marker #119.wav
+#WAVQ9 drum_x1 - Marker #120.wav
+#WAVQA drum_x1 - Marker #121.wav
+#WAVQB drum_x1 - Marker #1.wav
+#WAVQC harp_cup32 - Marker #1.wav
+#WAVQD harp_cup32 - Marker #2.wav
+#WAVQE harp_cup32 - Marker #3.wav
+#WAVQF harp_cup32 - Marker #4.wav
+#WAVQG harp_cup32 - Marker #5.wav
+#WAVQH harp_cup32 - Marker #6.wav
+#WAVQI harp_cup32 - Marker #7.wav
+#WAVQJ harp_cup32 - Marker #8.wav
+#WAVQK harp_cup32 - Marker #9.wav
+#WAVQL harp_cup32 - Marker #10.wav
+#WAVQM harp_cup32 - Marker #11.wav
+#WAVQN harp_cup32 - Marker #12.wav
+#WAVQO harp_cup32 - Marker #13.wav
+#WAVQP harp_cup32 - Marker #14.wav
+#WAVQQ harp_cup32 - Marker #15.wav
+#WAVQR harp_cup32 - Marker #16.wav
+#WAVQS harp_cup32 - Marker #17.wav
+#WAVQT harp_cup32 - Marker #18.wav
+#WAVQU harp_cup32 - Marker #19.wav
+#WAVQV harp_cup32 - Marker #20.wav
+#WAVQW harp_cup32 - Marker #21.wav
+#WAVQX harp_cup32 - Marker #22.wav
+#WAVQY harp_cup32 - Marker #23.wav
+#WAVQZ harp_cup32 - Marker #23.wav
+#WAVR0 harp_intop - Marker #1.wav
+#WAVR1 harp_intop - Marker #2.wav
+#WAVR2 harp_intop - Marker #3.wav
+#WAVR3 harp_intop - Marker #4.wav
+#WAVR4 harp_intop - Marker #5.wav
+#WAVR5 harp_intop - Marker #6.wav
+#WAVR6 harp_intop - Marker #7.wav
+#WAVR7 harp_intop - Marker #8.wav
+#WAVR8 harp_intop - Marker #9.wav
+#WAVR9 harp_intop - Marker #10.wav
+#WAVRA harp_intop - Marker #11.wav
+#WAVRB harp_intop - Marker #12.wav
+#WAVRC harp_intop - Marker #13.wav
+#WAVRD harp_intop - Marker #14.wav
+#WAVRE harp_intop - Marker #15.wav
+#WAVRF harp_intop - Marker #16.wav
+#WAVRG harp_intop - Marker #17.wav
+#WAVRH harp_intop - Marker #18.wav
+#WAVRI harp_intop - Marker #19.wav
+#WAVRJ harp_intop - Marker #20.wav
+#WAVRK strings_sabi_x1 - Marker #1.wav
+#WAVRL strings_sabi_x1 - Marker #2.wav
+#WAVRM strings_sabi_x1 - Marker #3.wav
+#WAVRN strings_sabi_x1 - Marker #4.wav
+#WAVRO strings_sabi_x1 - Marker #5.wav
+#WAVRP strings_sabi_x1 - Marker #6.wav
+#WAVRQ strings_sabi_x1 - Marker #7.wav
+#WAVRR strings_sabi_x1 - Marker #8.wav
+#WAVRS strings_sabi_x1 - Marker #9.wav
+#WAVRT strings_sabi_x1 - Marker #10.wav
+#WAVRU strings_sabi_x1 - Marker #11.wav
+#WAVRV strings_sabi_x1 - Marker #12.wav
+#WAVRW strings_sabi_x1 - Marker #13.wav
+#WAVRX strings_sabi_x1 - Marker #14.wav
+#WAVRY strings_sabi_x1 - Marker #15.wav
+#WAVRZ strings_sabi_x1 - Marker #16.wav
+#WAVS0 strings_sabi_x1 - Marker #17.wav
+#WAVS1 strings_sabi_x1 - Marker #18.wav
+#WAVS2 strings_sabi_x1 - Marker #19.wav
+#WAVS3 strings_sabi_x1 - Marker #20.wav
+#WAVS4 strings_sabi_x1 - Marker #21.wav
+#WAVS5 strings_sabi_x1 - Marker #22.wav
+#WAVS6 strings_sabi_x1 - Marker #23.wav
+#WAVS7 strings_sabi_x1 - Marker #24.wav
+#WAVS8 strings_sabi_x1 - Marker #25.wav
+#WAVS9 strings_sabi_x1 - Marker #26.wav
+#WAVSA strings_sabi_x1 - Marker #27.wav
+#WAVSB strings_sabi_x1 - Marker #28.wav
+#WAVSC strings_sabi_x1 - Marker #29.wav
+#WAVSD strings_sabi_x1 - Marker #30.wav
+#WAVSE strings_sabi_x1 - Marker #31.wav
+#WAVSF strings_sabi_x1 - Marker #32.wav
+#WAVSG strings_sabi_x1 - Marker #33.wav
+#WAVSH strings_sabi_x1 - Marker #34.wav
+#WAVSI strings_sabi_x2 - Marker #1.wav
+#WAVSJ strings_sabi_x2 - Marker #2.wav
+#WAVSK strings_sabi_x2 - Marker #3.wav
+#WAVSL strings_sabi_x2 - Marker #4.wav
+#WAVSM strings_sabi_x2 - Marker #5.wav
+#WAVSN strings_sabi_x2 - Marker #6.wav
+#WAVSO strings_sabi_x2 - Marker #7.wav
+#WAVSP strings_sabi_x2 - Marker #8.wav
+#WAVSQ strings_sabi_x2 - Marker #9.wav
+#WAVSR strings_sabi_x2 - Marker #10.wav
+#WAVSS strings_sabi_x2 - Marker #11.wav
+#WAVST strings_sabi_x2 - Marker #12.wav
+#WAVSU strings_sabi_x2 - Marker #13.wav
+#WAVSV strings_sabi_x2 - Marker #14.wav
+#WAVSW strings_sabi_x2 - Marker #15.wav
+#WAVSX strings_sabi_x2 - Marker #16.wav
+#WAVSY strings_sabi_x2 - Marker #17.wav
+#WAVSZ strings_sabi_x2 - Marker #18.wav
+#WAVT0 strings_sabi_x2 - Marker #19.wav
+#WAVT1 strings_sabi_x2 - Marker #20.wav
+#WAVT2 strings_sabi_x2 - Marker #21.wav
+#WAVT3 strings_sabi_x2 - Marker #22.wav
+#WAVT4 strings_sabi_x2 - Marker #23.wav
+#WAVT5 strings_sabi_x2 - Marker #24.wav
+#WAVT6 strings_sabi_x2 - Marker #25.wav
+#WAVT7 strings_sabi_x2 - Marker #26.wav
+#WAVT8 strings_sabi_x2 - Marker #27.wav
+#WAVT9 strings_sabi_x2 - Marker #28.wav
+#WAVTA strings_sabi_x2 - Marker #29.wav
+#WAVTB strings_sabi_x2 - Marker #30.wav
+#WAVTC strings_sabi_x2 - Marker #31.wav
+#WAVTD strings_sabi_x2 - Marker #32.wav
+#WAVTE strings_sabi_x2 - Marker #33.wav
+#WAVTF sabi_piano_x121 - Marker #1.wav
+#WAVTG sabi_piano_x121 - Marker #2.wav
+#WAVTH sabi_piano_x121 - Marker #1.wav
+#WAVTI sabi_piano_x121 - Marker #2.wav
+#WAVTJ sabi_piano_x211 - Marker #1.wav
+#WAVTK sabi_piano_x211 - Marker #2.wav
+#WAVTL sabi_piano_x211 - Marker #3.wav
+#WAVTM sabi_piano_x211 - Marker #4.wav
+#WAVTN sabi_piano_x211 - Marker #5.wav
+#WAVTO sabi_piano_x211 - Marker #6.wav
+#WAVTP sabi_piano_x211 - Marker #7.wav
+#WAVTQ sabi_piano_x211 - Marker #8.wav
+#WAVTR sabi_piano_x211 - Marker #9.wav
+#WAVTS sabi_piano_x211 - Marker #10.wav
+#WAVTT sabi_piano_x211 - Marker #11.wav
+#WAVTU sabi_piano_x211 - Marker #12.wav
+#WAVTV sabi_piano_x211 - Marker #13.wav
+#WAVTW sabi_piano_x211 - Marker #14.wav
+#WAVTX sabi_piano_x211 - Marker #15.wav
+#WAVTY sabi_piano_x211 - Marker #16.wav
+#WAVTZ sabi_piano_x211 - Marker #17.wav
+#WAVU0 sabi_piano_x211 - Marker #18.wav
+#WAVU1 sabi_piano_x211 - Marker #19.wav
+#WAVU2 sabi_piano_x211 - Marker #20.wav
+#WAVU3 sabi_piano_x215 - Marker #1.wav
+#WAVU4 sabi_piano_x214 - Marker #1.wav
+#WAVU5 sabi_piano_x214 - Marker #2.wav
+#WAVU6 sabi_piano_x214 - Marker #3.wav
+#WAVU7 sabi_piano_x214 - Marker #4.wav
+#WAVU8 sabi_piano_x214 - Marker #5.wav
+#WAVU9 sabi_piano_x214 - Marker #6.wav
+#WAVUA sabi_piano_x214 - Marker #7.wav
+#WAVUB sabi_piano_x214 - Marker #8.wav
+#WAVUC sabi_piano_x214 - Marker #9.wav
+#WAVUD sabi_piano_x214 - Marker #10.wav
+#WAVUE sabi_piano_x214 - Marker #11.wav
+#WAVUF sabi_piano_x214 - Marker #12.wav
+#WAVUG sabi_piano_x214 - Marker #13.wav
+#WAVUH sabi_piano_x214 - Marker #14.wav
+#WAVUI sabi_piano_x214 - Marker #15.wav
+#WAVUJ sabi_piano_x216 - Marker #1.wav
+#WAVUK sabi_piano_x214 - Marker #17.wav
+#WAVUL sabi_piano_x214 - Marker #18.wav
+#WAVUM sabi_piano_x214 - Marker #19.wav
+#WAVUN sabi_piano_x214 - Marker #20.wav
+#WAVUO sabi_piano_x2223 - Marker #1.wav
+#WAVUP sabi_piano_x2223 - Marker #2.wav
+#WAVUQ sabi_piano_x2223 - Marker #3.wav
+#WAVUR sabi_piano_x2223 - Marker #4.wav
+#WAVUS sabi_piano_x2223 - Marker #5.wav
+#WAVUT sabi_piano_x2223 - Marker #6.wav
+#WAVUU sabi_piano_x2223 - Marker #7.wav
+#WAVUV sabi_piano_x2223 - Marker #8.wav
+#WAVUW sabi_piano_x2223 - Marker #9.wav
+#WAVUX sabi_piano_x2223 - Marker #10.wav
+#WAVUY sabi_piano_x2223 - Marker #11.wav
+#WAVUZ sabi_piano_x2223 - Marker #12.wav
+#WAVV0 sabi_piano_x2223 - Marker #13.wav
+#WAVV1 sabi_piano_x2223 - Marker #14.wav
+#WAVV2 sabi_piano_x2223 - Marker #15.wav
+#WAVV3 sabi_piano_x2223 - Marker #16.wav
+#WAVV4 sabi_piano_x2223 - Marker #17.wav
+#WAVV5 sabi_piano_x2223 - Marker #18.wav
+#WAVV6 piano_end_01.wav
+#WAVV7 piano_end_02 - Marker #1.wav
+#WAVV8 piano_end_03 - Marker #1.wav
+#WAVV9 piano_end_04 - Marker #1.wav
+#WAVVA piano_end_05 - Marker #1.wav
+#WAVVB piano_end_06 - Marker #1.wav
+#WAVVC piano_end_07 - Marker #1.wav
+#WAVVD piano_end_08 - Marker #1.wav
+#WAVVE piano_end_09 - Marker #1.wav
+#WAVVF piano_end_10 - Marker #1.wav
+#WAVVG piano_end_11 - Marker #1.wav
+#WAVVH piano_end_12 - Marker #1.wav
+#WAVVI piano_end_13 - Marker #1.wav
+#WAVVJ piano_end_14 - Marker #1.wav
+#WAVVK piano_end_15 - Marker #1.wav
+#WAVVL piano_end_16 - Marker #1.wav
+#WAVVM piano_end_17 - Marker #1.wav
+#WAVVN piano_end_18 - Marker #1.wav
+#WAVVO piano_end_19 - Marker #1.wav
+#WAVVP piano_end_20 - Marker #1.wav
+#WAVVQ piano_end_21 - Marker #1.wav
+#WAVVR piano_end_22 - Marker #1.wav
+#WAVVS piano_end_23 - Marker #1.wav
+#WAVVT piano_end_24 - Marker #1.wav
+#WAVVU piano_end_25 - Marker #1.wav
+#WAVVV piano_end_26 - Marker #1.wav
+#WAVVW piano_end_28 - Marker #1.wav
+#WAVVX piano_end_29 - Marker #1.wav
+#WAVVY piano_end_30 - Marker #1.wav
+#WAVVZ piano_end_31 - Marker #1.wav
+#WAVW0 piano_end_32 - Marker #1.wav
+#WAVW1 piano_end_33 - Marker #1.wav
+#WAVW2 piano_end_34 - Marker #1.wav
+#WAVW3 piano_end_35 - Marker #1.wav
+#WAVW4 piano_end_37 - Marker #1.wav
+#WAVW5 piano_end_38 - Marker #1.wav
+#WAVW6 piano_end_39 - Marker #1.wav
+#WAVW7 piano_end_40 - Marker #1.wav
+#WAVW8 piano_end_41 - Marker #1.wav
+#WAVW9 piano_end_42 - Marker #1.wav
+#WAVWA piano_end_43 - Marker #1.wav
+#WAVWB piano_end_44 - Marker #1.wav
+#WAVWC piano_end_45 - Marker #1.wav
+#WAVWD piano_end_46 - Marker #1.wav
+#WAVWE piano_end_47 - Marker #1.wav
+#WAVWF piano_end_48 - Marker #1.wav
+#WAVWG piano_end_49 - Marker #1.wav
+#WAVWH lastpiano_rere - Marker #1.wav
+#WAVWI lastpiano_rere2 - Marker #1.wav
+#WAVWJ last_harp_end1 - Marker #1.wav
+#WAVWK last_harp_end1 - Marker #2.wav
+#WAVWL last_harp_end1 - Marker #3.wav
+#WAVWM last_harp_end1 - Marker #4.wav
+#WAVWN last_harp_end1 - Marker #5.wav
+#WAVWO last_harp_end1 - Marker #6.wav
+#WAVWP last_harp_end1 - Marker #7.wav
+#WAVWQ last_harp_end1 - Marker #8.wav
+#WAVWR last_harp_end1 - Marker #9.wav
+#WAVWS last_harp_end1 - Marker #10.wav
+#WAVWT last_harp_end1 - Marker #11.wav
+#WAVWU last_harp_end1 - Marker #12.wav
+#WAVWV last_harp_end1 - Marker #14.wav
+#WAVWW last_harp_end1 - Marker #15.wav
+#WAVWX last_harp_end1 - Marker #16.wav
+#WAVWY last_harp_end1 - Marker #17.wav
+#WAVWZ last_harp_end1 - Marker #18.wav
+#WAVX0 last_harp_end1 - Marker #19.wav
+#WAVX1 last_harp_end1 - Marker #20.wav
+#WAVX2 last_harp_end1 - Marker #21.wav
+#WAVX3 last_harp_end1 - Marker #22.wav
+#WAVX4 last_harp_end1 - Marker #23.wav
+#WAVX5 last_harp_end1 - Marker #24.wav
+#WAVX6 last_harp_end1 - Marker #25.wav
+#WAVX7 last_harp_end1 - Marker #26.wav
+#WAVX8 last_harp_end1 - Marker #27.wav
+#WAVX9 last_harp_end1 - Marker #28.wav
+#WAVXA last_harp_end1 - Marker #29.wav
+#WAVXB last_harp_end1 - Marker #30.wav
+#WAVXC last_harp_end1 - Marker #31.wav
+#WAVXD last_harp_end1 - Marker #32.wav
+#WAVXE last_harp_end1 - Marker #33.wav
+#WAVXF last_harp_end1 - Marker #34.wav
+#WAVXG last_harp_end1 - Marker #35.wav
+#WAVXH last_harp_end1 - Marker #36.wav
+#WAVXI last_harp_end1 - Marker #37.wav
+#WAVXJ last_harp_end1 - Marker #38.wav
+#WAVXK last_harp_end1 - Marker #39.wav
+#WAVXL last_harp_end1 - Marker #40.wav
+#WAVXM last_harp_end1 - Marker #41.wav
+#WAVXN last_harp_end1 - Marker #42.wav
+#WAVXO last_harp_end1 - Marker #43.wav
+#WAVXP last_harp_end1 - Marker #44.wav
+#WAVXQ last_harp_end1 - Marker #45.wav
+#WAVXR last_harp_end1 - Marker #46.wav
+#WAVXS last_harp_end1 - Marker #47.wav
+#WAVXT last_harp_end1 - Marker #48.wav
+#WAVXU last_harp_end1 - Marker #49.wav
+#WAVXV last_harp_end1 - Marker #50.wav
+#WAVXW last_harp_end1 - Marker #51.wav
+#WAVXX last_harp_end1 - Marker #52.wav
+#WAVXY last_harp_end1 - Marker #53.wav
+#WAVXZ last_harp_end1 - Marker #54.wav
+#WAVY0 last_harp_end1 - Marker #55.wav
+#WAVY1 last_harp_end1 - Marker #56.wav
+#WAVY2 last_harp_end1 - Marker #57.wav
+#WAVY3 last_harp_end1 - Marker #58.wav
+#WAVY4 last_harp_end1 - Marker #59.wav
+#WAVY5 last_harp_end1 - Marker #60.wav
+#WAVY6 last_harp_end1 - Marker #61.wav
+#WAVY7 last_harp_end1 - Marker #62.wav
+#WAVY8 last_harp_end1 - Marker #63.wav
+#WAVY9 last_harp_end1 - Marker #64.wav
+#WAVYA last_harp_end1 - Marker #65.wav
+#WAVYB last_harp_end1 - Marker #66.wav
+#WAVYC last_harp_end1 - Marker #67.wav
+#WAVYD last_harp_end1 - Marker #68.wav
+#WAVYE last_harp_end1 - Marker #69.wav
+#WAVYF last_harp_end1 - Marker #70.wav
+#WAVYG last_harp_end1 - Marker #71.wav
+#WAVYH last_harp_end1 - Marker #72.wav
+#WAVYI last_harp_end1 - Marker #73.wav
+#WAVYJ last_harp_end1 - Marker #74.wav
+#WAVYK piano_fx1 - Marker #1.wav
+#WAVYL piano_fx1 - Marker #2.wav
+#WAVYM piano_fx1 - Marker #3.wav
+#WAVYN piano_fx1 - Marker #4.wav
+#WAVYO piano_fx1 - Marker #5.wav
+#WAVYP piano_fx1 - Marker #6.wav
+#WAVYQ piano_fx2 - Marker #1.wav
+#WAVYR piano_fx2 - Marker #2.wav
+#WAVYS piano_fx2 - Marker #3.wav
+#WAVYT piano_fx2 - Marker #4.wav
+#WAVYU piano_fx2 - Marker #5.wav
+#WAVYV piano_fx2 - Marker #6.wav
+#WAVYW sabi_harp_x1 - Marker #1.wav
+#WAVYX sabi_harp_x1 - Marker #2.wav
+#WAVYY sabi_harp_x1 - Marker #3.wav
+#WAVYZ sabi_harp_x1 - Marker #4.wav
+#WAVZ0 sabi_harp_x1 - Marker #5.wav
+#WAVZ1 sabi_harp_x1 - Marker #6.wav
+#WAVZ2 sabi_harp_x1 - Marker #7.wav
+#WAVZ3 sabi_harp_x1 - Marker #8.wav
+#WAVZ4 sabi_harp_x1 - Marker #9.wav
+#WAVZ5 sabi_harp_x1 - Marker #10.wav
+#WAVZ6 sabi_harp_x1 - Marker #11.wav
+#WAVZ7 sabi_harp_x1 - Marker #12.wav
+#WAVZ8 sabi_harp_x1 - Marker #13.wav
+#WAVZ9 sabi_harp_x1 - Marker #14.wav
+#WAVZA sabi_harp_x1 - Marker #15.wav
+#WAVZB sabi_harp_x1 - Marker #16.wav
+#WAVZC harpgliss___d1 - Marker #1.wav
+#WAVZD harpgliss___d1 - Marker #2.wav
+#WAVZE harpgliss___d1 - Marker #3.wav
+#WAVZF harpgliss___d1 - Marker #4.wav
+#WAVZG harpgliss___d1 - Marker #5.wav
+#WAVZH harpgliss___d1 - Marker #6.wav
+#WAVZI harpgliss___d1 - Marker #7.wav
+#WAVZJ harpgliss___d1 - Marker #8.wav
+#WAVZK harpgliss___d1 - Marker #9.wav
+#WAVZL harpgliss___d1 - Marker #10.wav
+#WAVZM harpgliss___d1 - Marker #11.wav
+#WAVZN harpgliss___d1 - Marker #12.wav
+#WAVZO harpgliss___d1 - Marker #13.wav
+#WAVZP harpgliss___d1 - Marker #14.wav
+#WAVZQ harpgliss___d1 - Marker #15.wav
+#WAVZR harpgliss___d1 - Marker #16.wav
+#WAVZS harpgliss___d1 - Marker #17.wav
+#WAVZT harpgliss___d1 - Marker #18.wav
+#WAVZU INSANE_into_bgm1.wav
+#WAVZV INSANE_into_bgm6.wav
+#WAVZW INSANE_into_bgm3.wav
+#WAVZX INSANE_into_bgm4.wav
+#WAVZY INSANE_into_bgm7.wav
+#WAVZZ swwpbgm_1 - Marker #2.wav
+
+#BMP01 Altale(BGA).mpg
+
+
+
+
+#LNOBJ LE
+#DIFFICULTY 5
+
+
+
+*---------------------- MAIN DATA FIELD
+
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00ZU0000
+#00004:00010000
+#00013:00000000000000IN
+#00014:0000000000000000000000000000000000000000000000IV
+
+#00102:0.75
+#00111:I9
+#00112:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IG00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00113:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000JG000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00114:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000J900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IO0000000000000000000000000000000000000000000000
+#00115:J3
+#00118:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000JN000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IW0000000000000000
+#00119:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000J4
+
+#00202:0.75
+#00211:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IH00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00212:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IB
+#00213:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IP00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00214:00000000JO00000000
+#00215:IA000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000JH00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IX0000000000000000000000000000000000000000000000
+#00218:00JA00000000
+
+#00302:0.75
+#00311:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000II0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000LE00000000000000000000000000000000000000000000
+#00313:000000JI00LE
+#00314:J5000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000JP00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00315:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IQ000000000000000000000000000000000000000000000000
+#00319:00JB00
+
+#00402:0.75
+#00411:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ID
+#00412:ICLE00
+#00413:0000000000JC
+#00414:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IJ00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000LE00000000000000000000000000000000JJ000000000000
+#00415:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000JQ
+#00418:IYLE00
+#00419:000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000J600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000LE000000000000000000000000000000000000000000000000
+
+#00502:0.75
+#00511:0000000000000000000000000000000000000000000000000000000000000000000000LE000000000000000000000000000000000000000000000000000000000000000000000000
+#00512:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IK000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000LE
+#00513:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IZ000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IE
+#00514:000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IR00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000JD000000000000000000000000000000000000000000000000
+#00515:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000LE00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000JK0000000000000000
+#00516:GWGX
+#00518:00J7
+
+#00602:0.75
+#00611:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IL00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00612:00000000000000000000000000000000000000000000000000IS00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IT0000000000000000000000000000000000000000000000
+#00613:0000000000000000000000000000000000000000000000000000000000000000000000LE0000000000000000000000000000000000000000000000000000000000000000J1000000
+#00614:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000J0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000JS000000000000000000000000000000000000000000000000000000000000
+#00615:00JE
+#00616:GYGZ
+#00618:00LE000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000JL000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00619:00JR00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000LE0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:ZV
+#00702:0.75
+#00711:00LE00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00712:00IF00000000000000000000000000000000000000000000000000000000000000000000LE0000000000000000000000000000000000000000000000000000000000000000000000
+#00713:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000IM000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000LE
+#00714:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000JM000000000000000000000000000000000000000000000000000000000000IU000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00715:LE00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000JT000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000LE0000
+#00716:H0H1
+#00718:00J8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000LE00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000J200000000000000000000000000000000000000000000000000
+#00719:0000000000000000000000000000000000000000000000JF000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+#00801:1Q1R
+#00801:7172
+#00802:0.25
+#00811:FVR0
+#00812:0000000000R5LER100000000
+#00813:00R4R2
+#00814:000000R300000000LER30000
+#00815:00R2000000R4
+#00816:FS
+#00818:00R10000000000000000LER5
+#00819:R0G7
+
+#00901:1Q1R
+#00901:7172
+#00902:0.25
+#00911:FWR0
+#00912:00000000LER5LER100000000
+#00913:00R4R2
+#00914:0000LER300000000LER30000
+#00915:00R2000000R4
+#00918:LER10000000000000000LER5
+#00919:R0G8
+
+#01001:1Q1R
+#01001:7172
+#01002:0.25
+#01011:FXR0
+#01012:00000000LER5LER100000000
+#01013:00R4R2
+#01014:0000LER300000000LER30000
+#01015:00R2000000R4
+#01018:LER10000000000000000LER5
+#01019:R0G9
+
+#01101:00
+#01101:1Q1R
+#01101:00
+#01101:FT
+#01102:0.25
+#01111:7100LER60000
+#01112:LE00000000RB00R7000000LE
+#01113:FYLERA00R800
+#01114:LE0000R900LE000000R900LE
+#01115:00R800GALERA
+#01118:LER7000000LE0000000000RB
+#01119:R600007200LE
+
+#01201:00
+#01201:1Q1R
+#01202:0.25
+#01211:7100LER60000
+#01212:0000000000RB00R7000000LE
+#01213:FZLERA00R800
+#01214:000000R900LE000000R900LE
+#01215:00R800GBLERA
+#01218:00R7000000LE0000000000RB
+#01219:R600007200LE
+
+#01301:00
+#01301:1Q1R
+#01302:0.25
+#01311:7100LER60000
+#01312:0000000000RB00R7000000LE
+#01313:G0LERA00R800
+#01314:000000R900LE000000R900LE
+#01315:00R800GCLERA
+#01318:00R7000000LE0000000000RB
+#01319:R600007200LE
+
+#01401:00
+#01401:00
+#01401:00
+#01401:FT
+#01402:0.25
+#01411:7100000000LER60000000000
+#01412:0000000000RDLER700000000
+#01413:G10000LERA001RLER8000000
+#01414:00RCLERC
+#01415:1QLER8000000GD0000LERA00
+#01418:00R700000000LE00000000RD
+#01419:R600000000007200000000LE
+
+#01502:0.25
+#01511:7100000000LER60000000000
+#01512:LE00000000RDLER700000000
+#01513:G20000LERA001RLER8000000
+#01514:LERCLERC
+#01515:1QLER8000000GE0000LERA00
+#01518:LER700000000LE00000000RD
+#01519:R600000000007200000000LE
+
+#01602:0.25
+#01611:7100000000LER60000000000
+#01612:LE00000000RDLER700000000
+#01613:G30000LERA001RLER8000000
+#01614:LERCLERC
+#01615:1QLER8000000GF0000LERA00
+#01618:LER700000000LE00000000RD
+#01619:R600000000007200000000LE
+
+#01701:00
+#01701:00
+#01701:00
+#01701:FT
+#01702:0.25
+#01711:7100000000LERE00000000LE
+#01712:LE00000000RGLERF000000LE
+#01713:1Q0000LER50000LER30000LE
+#01714:LE0000R400LE1R00LER400LE
+#01715:G4LER30000LEGG0000LER500
+#01718:LERF000000LE1R000000LERG
+#01719:RE00000000LE7200000000LE
+
+#01802:0.25
+#01811:7100000000LERE00000000LE
+#01812:1Q000000LERGLERF000000LE
+#01813:G50000LER50000LER30000LE
+#01814:1Q00LER400LE1R00LER400LE
+#01815:00LER30000LEGH0000LER500
+#01818:LERF000000LE1R000000LERG
+#01819:RE00000000LE7200000000LE
+
+#01902:0.25
+#01911:7100000000LERH0000000000
+#01912:1Q000000LERBLERI00000000
+#01913:G60000LERJ0000LER8000000
+#01914:1Q00LER900LE1R00LER90000
+#01915:00LER80000LEGI0000LERJ00
+#01918:LERI000000LE1R000000LERB
+#01919:RH00000000LE7200000000LE
+
+#02002:0.75
+#02011:4F00000000000000000000004G0000005Z0000LE600000LE
+#02012:0000000000000000000000005Y0000LEAK00000000000000
+#02013:5Y0000LE5Z0000LE600000LE00GK00GK00GK00GK00000000
+#02014:0000000000000000AI000000BU0000LE00000000AL000000
+#02015:BR0000LEBS0000LEBT0000LEAJ000000BS0000LEBT0000LE
+#02016:FU
+#02018:00AH00000000
+#02019:AG0000000000GJGJGJGJGJ00
+
+#02102:0.75
+#02111:4F4G
+#02112:00000000620000LE630000LE640000LE650000LE660000LE
+#02113:610000LEAN00000000000000GK000000AQ000000GN000000
+#02114:0000000000000000AO00000000GJ0000000000GM00000000
+#02115:00000000BW0000LEBX0000LE0000GL00GK00GK0000000000
+#02118:BV0000LE0000000000000000AP0000GJ00GJ0000AR000000
+#02119:AM0000000000000000000000BY0000LEBZ0000LEC00000LE
+
+#02202:0.75
+#02211:4F4G
+#02212:00000000680000LE690000LE6A0000LE6B0000LE6C0000LE
+#02213:670000LE0000000000000000AX000000AY000000AZ000000
+#02214:00000000C20000LEC30000LEC40000LEC50000LEC60000LE
+#02215:C10000LE000000000000AW000000GM000000GQ0000000000
+#02218:AS000000AT000000AV00000000GO00GP00GJ00GL00000000
+#02219:000000AU0000GN00GK00GR00
+
+#02302:0.75
+#02311:4F00004GB4GO
+#02312:00000000000000006F0000LE6G0000LE6H0000LE6I0000LE
+#02313:6D0000LE0000000000000000000000GR000000GP00000000
+#02314:000000006E0000LEB2000000B300GU000000GK0000000000
+#02315:B000000000000000C90000LE00GT000000GJ000000000000
+#02318:C70000LEB100000000000000CA0000LECB0000LECC0000LE
+#02319:00000000C80000LE00000000GS000000GV000000B5000000
+
+#02402:0.75
+#02411:4F4G
+#02412:0000000000000000000000006M0000LE6N0000LE6O0000LE
+#02413:6J0000LE6K0000LE6L0000LE0000000000000000BB000000
+#02414:00000000000000000000000000000000BA000000CI0000LE
+#02415:CD0000LE00000000CF0000LEB9000000CH0000LE00000000
+#02416:FT
+#02418:B6000000CE0000LEB8000000CG0000LE0000000000000000
+#02419:00B700000000
+
+#02502:0.75
+#02511:4F4G
+#02512:000000000000000000000000000000006T0000LE6U0000LE
+#02513:00000000000000006R0000LE6S0000LE000000000000BJ00
+#02514:6P0000LE6Q0000LEBE00000000000000CN0000LEBI000000
+#02515:BC00000000000000CL0000LEBF00000000000000CO0000LE
+#02516:FT
+#02518:CJ0000LEBD00000000000000CM0000LE0000BH0000000000
+#02519:00000000CK0000LE0000000000000000BG00000000000000
+
+#02602:0.75
+#02611:4F4G
+#02612:6V0000LE6W0000LE6X0000LE000000000000000000000000
+#02613:BK00000000000000000000006Y0000LE6Z0000LE700000LE
+#02614:0000BL00BOBP
+#02615:000000000000000000000000CS0000LECT0000LECU0000LE
+#02616:FTFT
+#02618:CP0000LECQ0000LECR0000LEBN0000000000000000000000
+#02619:0000000000BM000000000000
+
+#02701:FT
+#02701:00
+#02701:BQ00004Q4R00
+#02701:4F4G
+#02702:0.75
+#02711:QCCWQICYQOD0
+#02712:00QD00000000LEQJ00000000LEQJ00000000LEQP00000000LEQP00000000LEQV00000000
+#02713:CV00LE00QE00000000000000CW00LE00QK00000000000000CX00LE00QK00000000000000CY00LE00QQ00000000000000CZ00LE00QQ00000000000000D000LE00QW0000000000000J
+#02714:00QFLEQLLEQLLEQRLEQRLEQX
+#02715:CV0000LEQG00CW0000LEQM00CX0000LEQM00CY0000LEQS00CZ0000LEQS00D00000LEQY00
+#02718:0000000000QHLE00000000QNLE00000000QNLE00000000QTLE00000000QTLE00000000QZ
+#02719:CV00000000LEQI00000000LECX00000000LEQO00000000LECZ00000000LEQU00000000LE
+
+#02801:FT
+#02802:0.75
+#02811:2400000000LE2700000000LE4G000000000000LE1M000000
+#02812:LE00000000000000000000001L00000000000000LE00000L0000000000000000000000000000000000000000LE00000N000000000000000000000000000000000000000000LE0000
+#02813:000000000000250000000000000000000000000000LE00002800000000000000LE00000M000000LE00002B0000LE00002C00000000000000LE00000O000000000000000000000000
+#02814:LE000000000000000000000K000000000000000000LE00001M0000LE0000290000LE00002A0000LE00002B0000LE00002C0000LE00002D0000LE00002E00000000000000LE00000P
+#02815:4E0000000000250000000000000000000000000000LE0000280000000000000000LE00004T00000000000000LE00000N000000LE00002D0000LE00002E0000LE00002F0000LE0000
+#02818:LE00000000000000000000002600000000000000LE00000L000000LE0000290000LE00002A00000000000000000000000000000000000000LE00000O000000LE00002F0000LE0000
+#02819:4S0000000000000000000000000000LE00002700000000000000000000000000LE00000M000000000000000000LE00001L00000000000000000000000000000000000000LE00000P
+
+#02902:0.75
+#02911:0000000000000000LE00000Q000000000000000000000000000000000000000000LE00004G0000000000000000LE00001N0000000000000000LE00001P0000000000000000000000
+#02912:4F0000LE00002H0000LE00002I00000000000000LE00000R0000000000000000000000000000000000000000LE00000T0000000000000000000000000000000000000000LE00000V
+#02913:000000000000000000LE00004U0000LE00002J0000LE00002K00000000000000LE00000S000000LE00002B0000LE00002C00000000000000LE00000U000000LE00002F0000LE0000
+#02914:00LE2HLE2I0000LE4VLE2LLE2A0000LE4XLE2DLE2ELE2FLE
+#02915:2G00000000000000LE00000Q000000LE00002J0000LE00002K0000000000000000LE00004W0000LE00002B0000LE00002C0000LE00002D0000LE00002E00000000000000LE00000V
+#02918:2G00000000000000000000000000000000000000LE00000R000000LE00002L0000LE00002A00000000000000LE00000T0000000000000000LE00000U000000000000000000000000
+#02919:000000000000000000LE00001L0000000000000000LE00001M00000000000000LE00000S000000000000000000000000000000LE00001O0000000000000000000000000000LE0000
+
+#03002:0.75
+#03011:000000000000000000LE00001L0000000000000000000000000000000000000000LE00004G0000000000000000000000000000000000000000LE00001M00000000000000LE000011
+#03012:000000000000000000000000000000000000000000LE00001M00000000000000000000000000000000000000LE00000Z000000000000000000000000000000LE00002P0000LE0000
+#03013:2G00000000000000LE00000W0000000000000000000000000000000000000000LE00000Y000000LE00002B0000LE00002M00000000000000LE000010000000000000000000LE0000
+#03014:2G0000LE00002H0000LE00002I00000000000000LE00000X000000LE00002L0000LE00002A0000LE00002B0000LE00002M0000LE00002N0000LE00002O0000LE00002P0000LE0000
+#03015:000000LE00002H0000LE00002I0000LE00002J0000LE00002K0000LE00002L0000LE00002A00000000000000LE00000Z000000LE00002N0000LE00002O00000000000000LE000011
+#03018:0000000000000000LE00000W000000LE00002J0000LE00002K00000000000000LE00000Y0000000000000000000000000000000000000000LE000010000000000000000000000000
+#03019:4F00000000000000000000000000000000000000LE00000X000000000000000000000000000000000000000000LE00001L0000000000000000000000000000000000000000LE0000
+
+#03102:0.75
+#03111:00000000000000LE1M0000LE4G0000LE1N0000LE1P0000LE
+#03112:2Q0000000000000000LE00001L0000000000000000000000000000000000000000000000000000LE00002X0000000000000000LE00001O00000000000000000000000000LE000012
+#03113:4Y000000000000LE2U0000LE4Z0000LE2Y00000000LE31LE
+#03114:2QLE2R0000LE2T0000LE2V0000LE2X00000000LE300000LE
+#03115:000000LE2S0000LE2U0000LE2W00000000LE2Z0000LE31LE
+#03118:000000LE00002R0000000000000000LE00002T0000000000000000LE00002V0000000000000000000000000000LE00002Y0000000000000000LE00003000000000000000LE000012
+#03119:4F0000LE2S000000000000LE2W00000000LE2Z0000000000
+
+#03201:FT
+#03202:0.75
+#03211:4F000000000000LE360000LE4G000000000000LE1M0000LE
+#03212:000000000000000000LE00001L00000000000000LE000014000000000000000000000000000000000000000000LE00001L00000000000000LE000017000000000000000000000000
+#03213:3200000000000000LE000013000000LE0000350000LE00001M00000000000000LE000015000000000000000000000000000000LE00003B0000LE00003C00000000000000LE000018
+#03214:500000LE0000330000LE0000340000LE0000350000LE0000360000LE0000370000LE00003800000000000000LE000016000000LE00003B0000LE00003C0000LE00003D0000LE0000
+#03215:320000LE0000330000LE00003400000000000000LE000014000000000000000000LE0000510000LE0000390000LE00003A00000000000000LE000017000000LE00003D0000LE0000
+#03218:0000000000000000LE000013000000000000000000000000000000LE0000370000LE0000380000LE0000390000LE00003A00000000000000000000000000000000000000LE000018
+#03219:0000000000000000000000000000000000000000000000000000000000000000LE0000150000000000000000LE000016000000000000000000000000000000000000000000000000
+
+#03302:0.75
+#03311:4F0000000000000000LE00001L00000000000000LE00001A000000000000000000LE00004G00000000000000LE00001C0000000000000000000000000000000000000000LE00001E
+#03312:000000000000000000000000000000LE00003H0000LE00003I0000000000000000000000000000LE00003L0000LE00003M00000000000000LE00001D000000LE00003P0000LE0000
+#03313:0000000000000000LE000019000000000000000000LE00005300000000000000LE00001B000000000000000000LE0000550000LE00003N0000LE00003O0000000000000000LE0000
+#03314:3ELE3FLE3GLE3HLE3ILE3JLE3KLE3LLE3MLE1OLE56LE3PLE
+#03315:3E0000000000000000LE00005200000000000000LE00001A00000000000000LE000054000000000000000000LE00001C000000LE00003N0000LE00003O00000000000000LE00001E
+#03318:000000LE00003F0000LE00003G0000000000000000000000000000LE00003J0000LE00003K00000000000000000000000000000000000000LE00001D000000000000000000000000
+#03319:0000000000000000LE000019000000000000000000LE00001M00000000000000LE00001B000000000000000000LE00001N0000000000000000LE00001P0000000000000000LE0000
+
+#03401:LGLG
+#03402:0.75
+#03411:000000000000000000LE00001L0000000000000000000000000000000000000000LE00004G00000000000000000000000000000000000000000000000000000000000000LE00001K
+#03412:3Q00000000000000000000000000000000000000LE00001G0000000000000000000000000000000000000000LE00001I0000000000000000LE00001J000000LE0000410000LE0000
+#03413:5700000000000000LE00001F000000LE00003T0000LE00003U00000000000000LE00001H000000LE00003X0000LE00003Y0000LE00003Z0000LE0000400000000000000000LE0000
+#03414:3QLE3RLE3SLE3TLE3ULE3VLE3WLE3XLE3Y0000LE59LE41LE
+#03415:000000LE00003R0000LE00003S00000000000000LE00001G000000000000000000LE00005800000000000000LE00001I000000LE00003Z0000LE00004000000000000000LE00001K
+#03418:0000000000000000LE00001F000000000000000000000000000000LE00003V0000LE00003W00000000000000000000000000000000000000LE00001J000000LE00005A0000000000
+#03419:4F0000000000000000000000000000000000000000LE00001M00000000000000LE00001H000000000000000000LE00001L0000000000000000LE00001M0000000000000000LE0000
+
+#03501:LG
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:0000000000000000000000ZY
+#03502:0.75
+#03511:000000LE1L0000LE460000LE4G0000LE010000LE1P0000LE
+#03512:42LE43000000000000LE4700000000LE4ALE4BLE4C0000LE
+#03513:5B00000000LE45000000000000LE49LE4A0000LE4CLE4DLE
+#03514:420000LE440000LE460000LE4800000000LE1O00000000LE
+#03515:0000000000LE45000000000000LE49LE1N0000LE02LE4DLE
+#03518:00LE43000000000000LE4700000000LE5CLE4BLE5D0000LE
+#03519:4F0000LE440000LE1M0000LE480000LE5C0000LE5D0000LE
+
+#03601:1S1T1U1V1W1X1Y1Z20212223
+#03601:4H4I004H4I00
+#03601:030000040005
+#03601:5E005U5F005G
+#03601:00000000005U
+#03601:FS
+#03602:0.75
+#03611:730000000000000000000000000000LE007K007M00000000
+#03612:0074000000000000000000LE007G007ILE007L007N000000
+#03613:00007500000000LE007C007ELE007H007JLE007M007O00LE
+#03614:0000007600LE007ALE007D007FLE007I007KLE007N007P00
+#03615:000000007700LE007BLE007E007GLE007J007LLE007O007Q
+#03618:00000000007800LE007CLE007F007H0000000000LE007P00
+#03619:0000000000007900LE007D00000000000000000000LE007Q
+
+#03701:1S00001V1W1X1Y1Z20212223
+#03701:4H4I004H4I00
+#03701:060708000000000009000A00
+#03701:5H5I5J00000000005K005L00
+#03701:005V00
+#03702:0.75
+#03711:00LE007U007WLE007Y008100LE008500870000LE008C008E
+#03712:LE007T007VLE007Y008000LE008400860000LE008B008DLE
+#03713:007S007ULE007X007Z00LE008300850000LE008A008C0000
+#03714:000000LE007W007Y00LE008200840000LE0089008B000000
+#03715:0000LE007V007X00LE008100830000LE0088008ALE008D00
+#03718:7R000000000000LE008000820000LE008700890000LE008E
+#03719:007S0000000000000000000000LE0086008800000000LE00
+
+#03801:1S1T1U1V1W1X1Y1Z20212223
+#03801:4H4I004H4I00
+#03801:0B00000C0D0E
+#03801:5M00005N5O5P
+#03801:00005U00005U
+#03802:0.75
+#03811:0000000000000000LE008P008R0000LE008W008Y00000000
+#03812:008G008I0000000000LE008Q008S0000LE008X008Z000000
+#03813:LE008H008JLE008M008OLE008R008T0000LE008Y00900000
+#03814:00LE008I008KLE008N008PLE008S008U0000LE008Z009100
+#03815:8F00LE008J008LLE008O008QLE008T008V0000LE00900092
+#03818:008G00LE008K008M0000000000LE008U008W0000LE009100
+#03819:8F008H00LE008L008N0000000000LE008V008X0000LE0092
+
+#03901:1S1T1U1V1W00001Z20212223
+#03901:4H4I004H4I00
+#03901:0F0000000G0H000000000000
+#03901:5Q0000005R5S5T0000000000
+#03901:00005V0I0000
+#03901:00000000000000000000H2H3
+#03902:0.75
+#03911:000000LE0000950000000000000000000000000000LE00009B000000000000000000LE009500000000000000000000000000LE0099000000LE0000009D0000000000000000000000
+#03912:000000000000LE0000960000000000000000LE00009A0000LE00009C0000000000000000LE0096000000000000000000LE009800LE009A000000LE0000009E000000000000000000
+#03913:000000000000000000LE0000970000LE0000990000000000000000LE00009D000000LE009500LE00950000000000LE009700LE009900LE009B000000LE0000009700000000000000
+#03914:000000LE0000950000000000LE0000980000000000LE00009B0000000000LE00009E0000LE009600LE009600LE009600LE009800LE009A00LE009C000000LE000000980000000000
+#03915:000000000000LE0000960000000000000000LE00009A0000LE00009C00000000000000000000LE009500LE009500LE00970000000000LE009B00LE009D000000LE00000099000000
+#03918:930000000000000000LE0000970000LE0000990000000000000000LE00009D000000000000000000LE009600LE0096000000000000000000LE009C00LE009E000000LE0000009A00
+#03919:000000940000000000000000LE0000980000000000000000000000000000LE00009E0000000000000000LE009500000000000000000000000000LE009D00LE0097000000LE000000
+
+#04001:00005W00005W
+#04002:0.75
+#04011:4J000000D3000000D70000004J000000000000EE00000000
+#04012:000000D200D400E70000E9000000000000004K00D8000000
+#04013:0000D10000004K00E80000EA0000DB00H8000000LED90000
+#04014:H400000000000000LE00D900EB0000D30000ED00EF00DC00
+#04015:0000E400000000D600D8000000000000D4000000H9000000
+#04016:FSFS
+#04018:00000000E500D5000000H600H7000000LED500D7000000DD
+#04019:E300000000E60000H50000DA00000000EC00D6000000EG00
+
+#04101:005X00
+#04102:0.75
+#04111:4J4K4J4K
+#04112:0000DE00D50000D80000EN00HD00000000000000LE0000DS
+#04113:000000D400D60000EM000000DH0000DK00000000HE00DR00
+#04114:EH000000EJ00D700HC000000LE00EQ00DL00000000DQ00EW
+#04115:LE00EI00000000EL00DC000000EP00ER00DM0000DP00EV00
+#04116:FSFS
+#04118:00000000HB000000LE00DF00EO00DJ00ES0000DO00EU0000
+#04119:HA000000LE00EK00D90000DG00DI00000000DN00ET000000
+
+#04201:0000000000004L0000004M4N
+#04201:00
+#04201:0000000000000000F300F400F5F6F7F8F900FAFBFC000000
+#04202:0.75
+#04211:4J000000EZ000000HG0000LE9J9K0000000000LE9R00LE00
+#04212:0000EY0000004K0000HH000000LE9L9M00LE9P9Q00LE0000
+#04213:HF00000000DY00E00000HI00000000LE9N9O00000000LE00
+#04214:00DU00DW0000DZ005W00009I000000000000000000LE0000
+#04215:EX00000000F000F200009H000000LEHNHO0000000000LE00
+#04216:FS
+#04218:0000DV000000F100009G0000LEHLHM00LEHPHQ0000LE0000
+#04219:DT000000DX0000009F00LEHJHK0000000000LEHRHS00LE00
+
+#04301:000000004L00000000004M4N
+#04301:00
+#04301:000000000000000000FGFHFIFJ00FK00FLFMFNFOFP00FQFR
+#04302:0.75
+#04311:4O000000FF000000HU00LEHXHY0000000000LEI5I600LE00
+#04312:0000FE000000DZ0000HV0000LEHZI000LEI3I40000LE0000
+#04313:FD000000000000E20000HW000000LEI1I20000000000LE00
+#04314:00DU00E100DY00005X00009I000000000000000000LEI700
+#04315:HT000000000000E200009H00000000LE9N9O00000000LE00
+#04316:FS
+#04318:0000DV000000DZ00009G000000LE9L9M00LE9P9Q00LE0000
+#04319:DT000000DX0000009F0000LE9J9K0000000000LE9R00LE00
+
+#04402:0.75
+#04411:4O000000LE009U000000000000LE009X000000000000LE00A0000000LE00A200000000000000LE00QQ000000LE00QT0000000000000000000000LE00QU0000000000000000000000
+#04412:0000QD00000000LE009V000000000000LE009Y000000000000LE00A1000000LE00A3000000000000LE00QR000000LE00QO000000LE00QR0000000000LE00QV000000000000000000
+#04413:9S000000QE0000000000LE009W000000000000LE009Z000000000000LE00QL0000000000LE00QP000000LE00QS000000LE00QP000000LE00QS0000000000LE00QW00000000AF0000
+#04414:000000000000QF0000000000LE00QJ00000000000000LE00QI0000000000LE00QM00000000000000000000LE00A700000000LE00QQ000000LE00QT0000000000LE00QX0000000000
+#04415:I800000000000000QG0000000000LE00QK00000000000000LE00QJ00000000000000LE00QO000000LE00A6000000000000000000LE00AA000000000000LE00AD0000LE00QY000000
+#04416:FS
+#04418:0000009T000000000000QH0000000000LE00QL00LE00QN000000LE00QK000000LE00QN0000LE00A5000000000000000000LE00A9000000LE00AB000000000000LE00AE00LE00QZ00
+#04419:QC0000000000QI0000LEQM000000000000LEA400000000LEA800000000LEAC00000000LE
+
+#04502:0.0625
+#04511:4P
+#04516:MY
+#04519:FS
+
+#04602:0.0625
+
+#04702:0.0625
+
+#04802:0.0625
+
+#04902:0.0625
+
+#05002:0.0625
+
+#05102:0.0625
+
+#05202:0.0625
+
+#05302:0.0625
+
+#05402:0.0625
+
+#05502:0.0625
+
+#05602:0.0625
+
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:ZW
+#05702:2.25
+#05711:00000000K100000000000000000000000000K60000000000000000
+#05712:0000000000JZ0000000000K0000000K80000
+#05713:0000K0000000000000JZ000000000000K900
+#05714:JZ00000000000000000000000000000000KB0000000000000000K2000000000000000000000000000000000000000000000000KA0000
+#05715:000000K200000000K30000000000K7000000
+#05716:FS
+#05718:00000000000000K400000000000000000000
+#05719:00K500
+
+#05802:0.75
+#05811:0000000000JW
+#05812:0000000000000000000000000000000000JX
+#05813:00KC
+#05814:0000KH
+#05815:0000000000KL
+#05816:JV00000000000000000000JU000000000000000000000000
+
+#05902:0.75
+#05911:JY
+#05912:00KZ
+#05913:KT
+#05914:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000KI000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000KQ0000000000000000000000000000000000000000000000
+#05915:00000000000000000000000000000000KD00000000000000000000000000000000000000000000000000000000KE0000
+#05918:KPKM
+
+#06002:0.75
+#06011:00L000L10000
+#06012:00KVKW
+#06013:KU00000000L2
+#06014:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000KF00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#06015:00KR00
+#06018:00KN00000000
+#06019:KJ00000000KK
+
+#06102:0.75
+#06112:00L3
+#06114:KXKG
+#06118:KO
+#06119:00KS00
+
+#06202:1.5
+#06211:000000000000000000L80000000000000000000000000000000000ZC00LEKY00LEZO00LE
+#06212:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ZD000000LE00ZJ000000LE00ZP0000LE00
+#06213:000000000000L7000000000000000000000000000000000000000000ZE00LEZK00LEZQ00
+#06214:000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ZF000000LE00ZL000000LE00ZR0000
+#06215:L600000000000000000000000000000000000000000000000000000000ZG00LEZM00LEZS
+#06216:GYGZGYGZ
+#06218:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ZH000000LE00ZN000000LE00ZT
+#06219:000000000000000000000000000000000000000000000000000000L40000ZI00LEL500LE
+
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:SI000000SJSKSL000000SMSN
+#06301:RK000000RLRMRN000000RORP
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:ZZ
+#06302:0.75
+#06311:QB00000000000000000000LELDNB00LENE00
+#06312:QBLEN00000LELCN50000LEN9LENBLELCNELE
+#06313:00LEN0LEN200LEN5LEN7LEN900LENC0000LE
+#06314:LEMZLELBN2LEN400LEN700LENALENC00LENF
+#06315:LEMZLEN100LEN400LELFN8LENA00LENDLENF
+#06318:0000LEN1LEN300LEN6LEN8000000LEND0000
+#06319:LG000000LEN300LEN6000000000000000000
+
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:SOSPSQSR00SS
+#06401:RQRRRSRT00RU
+#06402:0.75
+#06411:00000000000000000000LENR00LENU0000LE
+#06412:NG000000LENL0000LENPLENR00LENULENWLE
+#06413:NGLENI00LENLLENOLENP00LENS00LELCNWLE
+#06414:00LENILENKLELCNOLELFNQLENS00LENV0000
+#06415:LENHLELBNK0000LENNLENQ00LENTLENVLENX
+#06418:LENHLENJ00LENMLENN0000LELDNT0000LENX
+#06419:0000LENJ00LENM00000000000000000000LE
+
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:RV00RWRXRYRZ
+#06502:0.75
+#06511:NYLEO00000LEO4LEO6SV00LEOALEOCSX00LE
+#06512:NYLEO0LEO2LEO4LEO6LEO8LEOALEOCLEOELE
+#06513:NYLEO0LEO2LEO4LEO6LEO8LEOALEOCLEOELE
+#06514:LENZLELBO2LELCO5LELFO8LELDOBLELCOE00
+#06515:LENZLEO1LEO3LEO5LEO7LEO9LEOBLEODLEOF
+#06518:LENZLEO1LEO3LEO5LEO7LEO9LEOBLEODLEOF
+#06519:ST00LEO1LEO3SU00LEO7LEO9SW00LEODLEOF
+
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:S0S1
+#06602:0.75
+#06611:OG00LE00OI0000000000LE00OM00LE00OO00SZ000000LE00OS00LE00OU000000000000LE
+#06612:OG00LE00OI00LE00OK00LE00OM00LE00OO00LE00OQ00LE00OS00LE00OU00LE00OW0000LE
+#06613:OG00LE00OI00LE00OK00LE00OM00LE00OO00LE00OQ00LE00OS00LE00OU00LE00OW0000LE
+#06614:LE00OH00LE00LB00OK00LE00LC00ON00LE00LF00OQ00LE00LD00OT00LE00LC00OW0000LE
+#06615:LE00OH00LE00OJ00LE00OL00LE00ON00LE00OP00LE00OR00LE00OT00LE00OV00LE00OXLE
+#06618:LE00OH00LE00OJ00LE00OL00LE00ON00LE00OP00LE00OR00LE00OT00LE00OV00LE00OXLE
+#06619:SY000000LE00OJ00LE00OL0000000000LE00OP00LE00OR0000000000LE00OV00LE00OXLE
+
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:RK000000RLRMRN000000RORP
+#06702:0.75
+#06711:OY0000000000P4000000P800000000PD0000
+#06712:0000000000000000P600000000PB0000PE00
+#06713:00OZ000000P3000000P700P90000PC000000
+#06714:000000P1000000P500000000PA00000000PF
+#06715:0000P0000000SJ0000LF0000000000SM0000
+#06716:LGLG
+#06718:0000000000000000P2000000000000SK0000000000000000000000000000000000SN0000
+#06719:SILBLCSLLDLC
+
+#06801:00
+#06801:00LF
+#06802:0.75
+#06811:PG0000000000LE0000PJ00000000LE000000PM00LE000000000000PPLE00PQ0000PR0000
+#06812:S200LE000000000000S3000000LE00000000S4000000LE00000000S5000000000000LE00
+#06813:LG000000LE00000000LG00LE000000000000LGLE00PN0000PO0000LG00000000LE000000
+#06814:T00000000000LE0000T1000000000000LE00T2000000000000LE00T300LE000000000000
+#06815:S20000LE0000000000S3LE00PK0000PL0000S400LE000000000000S50000000000LE0000
+#06816:L9000000000000LE00L9000000000000LE00L9000000000000LE00L9000000000000LE00
+#06818:LG000000000000LE00LG000000LE00000000LG00000000LE000000LG0000LE0000000000
+#06819:T0LE00PH0000PI0000T10000LE0000000000T20000LE0000000000T300000000LE000000
+
+#06902:0.75
+#06911:PS0000000000S700LE000000TJ0000SA00LE
+#06912:000000LB00PX000000LF00Q3S900LEQ70000
+#06913:S600000000LEPY0000S800LE0000Q60000Q9
+#06914:00PUPW00Q0Q2000000
+#06915:T400000000LELC0000T600LE00Q50000Q800
+#06916:L9
+#06918:00PT00PV000000PZ00Q10000T700LEU40000
+#06919:LG0000000000T500LE000000Q40000T800LE
+
+#07001:LG
+#07001:00LF
+#07001:00
+#07001:00
+#07001:00
+#07001:RK000000RLRMRN000000RORP
+#07001:SI000000SJSKSL000000SMSN
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:UOUP
+#07001:TK0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000U500000000000000000000000000000000TL000000000000U60000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000TM00000000000000000000000000U7000000000000000000
+#07002:0.75
+#07011:000000Z000000000LEZ800000000LEZ10000
+#07012:000000000000000000000000000000Z100000000000000000000000000LE000000000000000000Z800000000000000000000000000LE000000000000000000YZ0000000000000000
+#07013:00000000N000N10000Z2000000LE0000N600N70000Z6000000LE0000NC00ND0000YY0000
+#07014:00000000MZ00000000YZ00LE00000000N200000000Z300LE00000000N500000000Z700LE00000000N800000000Z500LE00000000NB00000000Z100LE00000000NE00000000YW00LE
+#07015:QB0000YY000000LE0000N300N40000Z6000000LE0000N900NA0000Z2000000LE0000NF00
+#07018:000000YX00000000000000000000000000LE000000000000000000Z500000000000000000000000000LE000000000000000000Z300000000000000000000000000LE000000000000
+#07019:YW00000000LEZ400000000LEZ500000000LE
+
+#07101:00
+#07101:00LF
+#07101:00
+#07101:00
+#07101:00
+#07101:RQRRRSRT00RU
+#07101:SOSPSQSR00SS
+#07101:00
+#07101:00
+#07101:00
+#07101:00
+#07101:UQ0000U80000000000UR000000UA00UB0000
+#07101:TNTFTG00THTITOTFTGU90000TP00TQ000000
+#07102:0.75
+#07111:0000LEYZ00000000LEZ800000000LEZ00000
+#07112:0000000000LE000000000000000000Z000000000LE000000NM00000000LE000000000000000000Z700000000LE000000NS00000000LE000000000000000000YZ00000000LE000000
+#07113:00LE0000NI00NJ0000Z1000000LE0000NN00NP0000Z6000000LE0000NU00NV0000YY0000
+#07114:00000000NH00000000YY00LE00000000NK00000000Z200LE00000000NO00000000Z600LE00000000NQ00000000Z500LE00000000NT00000000Z100LE00000000NW00000000YX00LE
+#07115:NG0000YY000000LE0000NL00NM0000Z5000000LE0000NR00NS0000Z2000000LE0000NX00
+#07118:000000YW00000000LE000000NJ00000000LE000000000000000000Z500000000LE000000NP00000000LE000000000000000000Z900000000LE000000NV00000000LE000000000000
+#07119:ZA00000000LEZ300000000LEZ400000000LE
+
+#07201:00
+#07201:00LF
+#07201:00
+#07201:00
+#07201:00
+#07201:RV00RWRXRYRZ
+#07201:ST00SUSVSWSX
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:USUC00UT00UE
+#07201:TR0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000TS000000000000000000000000000000000000000000000000UD00000000000000000000000000000000000000000000TT0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#07202:0.75
+#07211:0000LEZ000LEO400LEZ800LEOA00LEZ000LE
+#07212:NY00000000LE000000000000000000Z100000000000000000000000000LE000000000000000000Z700000000000000000000000000LE000000000000000000YZ0000000000000000
+#07213:00LE0000O000O10000Z2000000LE0000O600O70000Z6000000LE0000OC00OD0000YY0000
+#07214:00000000NZ00000000YZ00LE00000000O200000000Z300LE00000000O500000000Z700LE00000000O800000000Z500LE00000000OB00000000Z100LE00000000OE00000000YX00LE
+#07215:NY0000YY000000LE0000O300O40000Z6000000LE0000O900OA0000Z2000000LE0000OF00
+#07218:000000YX00000000000000000000000000LE000000000000000000Z500000000000000000000000000LE000000000000000000Z900000000000000000000000000LE000000000000
+#07219:YW00LEO100LEZ400LEO700LEZ400LEOD00LE
+
+#07301:00
+#07301:00LF
+#07301:00
+#07301:00
+#07301:00
+#07301:SBS1
+#07301:SYSZ
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:UUUV
+#07301:TUUF
+#07302:0.75
+#07311:OG000000LE00YZ00LE00OL00LE00ON00LE00Z800LE00OR00LE00OT00LE00Z000000000LE
+#07312:0000000000LE000000000000000000Z000000000LE000000OM00000000LE000000000000000000Z700000000LE000000OS00000000LE000000000000000000YZ000000000000LE00
+#07313:00LE0000OI00OJ0000Z1000000LE0000OO00OP0000Z6000000LE0000OU00OV0000YY00LE
+#07314:00000000OH00000000YY00LE00000000OK00000000Z200LE00000000ON00000000Z600LE00000000OQ00000000Z500LE00000000OT00000000Z100LE00000000OW00000000YXLE00
+#07315:OG0000YY000000LE0000OL00OM0000Z5000000LE0000OR00OS0000Z2000000LE0000OX00
+#07318:000000YW00000000LE000000OJ00000000LE000000000000000000Z500000000LE000000OP00000000LE000000000000000000Z900000000LE000000OV00000000LE000000000000
+#07319:ZALEOILEOKLEZ3LEOOLEOQLEZ4LEOULEOWLE
+
+#07401:OYOZP0P1P2P3P4P5P6P7P8P9PAPBPCPDPEPF
+#07401:00LF
+#07402:0.75
+#07411:UW0000000000000000000000000000000000Z20000000000UG0000000000RM0000000000LE0000Z80000000000000000000000000000Z2000000000000000000000000U300000000
+#07412:000000YZ00Z100Z300000000Z800Z600000000Z1RO00LE00
+#07413:TV00YY00Z0000000Z400SK00LE0000Z500000000Z100RP00
+#07414:00YX000000000000RL00LEZ7UX000000Z5000000SM00LE00
+#07415:RK00000000000000LE00Z600RN00000000000000LEYZSN00
+#07416:LGLG
+#07418:YW0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000SJ0000000000000000000000LE00000000TW000000000000UH0000000000000000000000000000000000000000000000000000000000Z30000000000000000000000000000000000TX0000000000000000000000YY0000000000000000000000
+#07419:SI00000000000000LEZ50000SL00000000000000LE0000YW
+
+#07501:00
+#07501:00LF
+#07501:LGLGLGLG
+#07501:00
+#07501:00
+#07501:00
+#07501:T9TATBTC
+#07502:0.75
+#07511:UY000000000000LE00000000YQ0000000000PM0000000000YM0000V1000000000000LE00
+#07512:PG0000000000000000UZ000000000000LE000000YL0000000000YT000000PQ0000000000
+#07513:LE0000PH0000PI0000000000000000YK0000V0000000000000LE0000YN000000YO000000
+#07514:SC000000000000LE00SD000000000000LE00SE000000000000LE00SF000000000000LE00
+#07515:LE0000000000000000000000PK0000PL0000UJ000000000000LE00000000YU000000YV00
+#07516:L9L9L9L9
+#07518:ZA0000000000000000TY000000000000LE00000000PN0000PO0000PP0000000000PR0000
+#07519:UI000000000000LE00PJ0000000000000000YR000000YS00000000TZ000000000000LE00
+
+#07601:00
+#07601:000000000000000000Q1Q2Q3Q4Q5Q6Q7Q8Q9
+#07601:LGLF
+#07601:00
+#07601:00
+#07601:SG
+#07601:TD
+#07601:00
+#07601:00
+#07601:00
+#07601:V2V3
+#07601:UK00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000U000000000000000000000000000000000000000000000000000UL00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#07601:YP
+#07602:0.75
+#07611:00000000Z0000000000000LEZ800LE00Z400Z20000000000
+#07612:0000000000Z100000000LE00Z8Z700LE00Z900Z1000000LE
+#07613:0000000000000000PU000000PV0000000000Z20000000000000000LE00000000Q0000000000000Z70000Z60000000000LE0000000000Z20000000000Z00000000000LE0000000000
+#07614:00000000PT00000000YZ0000LE000000PW00000000Z30000LE000000PZ00000000Z70000LE0000000000Z60000Z50000000000LE0000000000Z10000000000YZ0000000000000000
+#07615:PS0000000000YY0000000000000000LE00000000PX000000PY0000000000Z60000000000000000LE0000000000Z50000Z40000000000LE0000000000Z00000000000YY0000000000
+#07616:L9
+#07618:00YX00000000LE0000Z500000000LE00Z4Z900LE00YZ00YX
+#07619:YW000000000000LEZ4000000000000LE00Z9Z200LE00YY00
+
+#07701:QA
+#07701:00
+#07701:00
+#07701:LG
+#07701:00
+#07701:SH
+#07701:TE
+#07701:00
+#07701:00
+#07701:00
+#07701:V4V5
+#07701:U100000000UMU20000UN0000000000000000
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00YX00000000000000000000000000000000000000000000
+#07702:0.75
+#07711:LE00YY00Z000LE00Z500Z700LEZ7Z600LE00Z20000000000
+#07712:00YX00YZ00LE00Z400Z600LEZ8Z7000000LE00Z100000000
+#07713:ZB00YY00LE00Z900Z500000000LEZ6Z50000LE00Z0000000
+#07714:00000000000000000000LEZ8Z8000000000000LE00YZ0000
+#07715:000000LE00Z100Z4000000000000LEZ5Z4000000LE00YY00
+#07718:0000LE00Z000Z90000LEZ7Z8000000000000000000LE00YX
+#07719:ZBLE00YZ00Z10000LEZ6Z700000000LEZ4Z900000000LE00
+
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:ZX
+#07802:0.75
+#07803:53
+#07811:MN
+#07813:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000MS000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#07814:00000000M600000000
+#07815:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000M1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000MF0000000000000000000000000000000000000000000000
+#07816:LA
+#07818:000000000000000000000000000000MJ
+#07819:LW000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000MB00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+#07902:0.75
+#07911:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000MT00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#07912:MO
+#07913:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000MG00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#07914:0000000000000000000000MC000000000000000000000000
+#07915:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000M700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#07918:00000000000000000000000000000000000000000000000000M20000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000MK00000000000000000000000000000000000000000000
+#07919:00LX00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+#08002:1.5
+#08011:00MU0000
+#08012:MP00000000000000000000MD
+#08013:0000000000000000000000000000000000000000000000000000000000000000000000MH
+#08014:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000M800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#08015:00LY00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#08019:00M300000000
+
+#08102:0.75
+#08111:MQ
+#08112:00LJ
+#08113:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000M4000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#08114:MLMV
+#08115:00LZ00
+#08118:LI
+#08119:00M9
+
+#08202:0.75
+#08211:LK
+#08212:00LL000000ME
+#08213:000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000LM00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000MI000000000000
+#08214:00LN
+#08215:0000LO
+#08218:0000000000LP
+
+#08302:0.75
+#08311:00MR000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000M5000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#08312:00MV
+#08313:00M000
+#08314:LQLR
+#08318:00MA
+#08319:MM
+
+#08402:0.75
+#08412:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000MW
+#08414:00LS
+#08415:0000LT
+#08416:0000000000000000000000000000000000000000000000JU
+#08418:0000000000LU
+#08419:0000000000000000000000000000000000000000000000LV
+
+#08502:0.75
+#08514:00MX00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+#08601:LH
+#08601:V6V7V8WIVCV9VAVBVKVDVEVFVGVHVIVJVLVNVMVOVPVQVRVSVTVUVVWHVWVXVYVZW0W1W5W3W2W4W6W7W8W9WAWBWCWDWGWF
+#08602:1.5
+#08611:00000000WN00WP0000LEWT00LEWW0000LEX000LEX30000LEX70000LEXB00LEXE0000LEXI00LEXL00000000LEXR00LEXU0000LEXY00LEY10000LEY50000LEY900LEYC000000000000
+#08612:000000WM00WO0000LEWS00LEWV0000LEWZ00LEX20000LEX6LEX80000LEXC00LEXF0000LEXJ00LEXM0000LEXQ00LEXT0000LEXX00LEY00000LEY4LEY60000LEYA00LEYD0000000000
+#08613:0000WL00WN0000LEWR00LEWU0000LEWY00LEX10000LEX50000LEX90000LEXD00LEXG0000LEXK00LEXNLEXP00LEXS0000LEXW00LEXZ0000LEY30000LEY70000LEYB00LEYE00000000
+#08614:00WK00WM0000LEWQ00LEWT0000LEWX00LEX00000LEX400LEX700LEXA0000LEXE00LEXH0000LEXL00LEXO00LEXR0000LEXV00LEXY0000LEY200LEY500LEY80000LEYC00LEYF000000
+#08615:WJ00WL0000LEWP00LEWS0000LEWW00LEWZ0000LEX300LEX6LEX800LEXB0000LEXF00LEXI0000LEXM0000LEXQ0000LEXU00LEXX0000LEY100LEY4LEY600LEY90000LEYD00LEYG0000
+#08618:00WK0000LEWO00LEWR0000LEWV00LEWY0000LEX200LEX50000LEX900LEXC0000LEXG00LEXJ0000LEXNLEXP0000LEXT00LEXW0000LEY000LEY30000LEY700LEYA0000LEYE00LEYH00
+#08619:WJ0000LEWN00LEWQ0000LEWU00LEWX0000LEX100LEX400000000LEXA00LEXD0000LEXH00LEXK0000LEXO0000LEXS00LEXV0000LEXZ00LEY200000000LEY800LEYB0000LEYF00LEYI
+
+#08701:00
+#08701:WE
+#08711:YJ
+
+
+#08904:00000000000000000000000000000002
+
